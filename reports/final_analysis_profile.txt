@@ -1,0 +1,313 @@
+INDIA ANALYTICS JOB MARKET — FINAL DATA PROFILE
+==============================================================
+Frozen dataset: 2026-08-30
+Posting window: 2026-01-01T00:00:00Z to 2026-08-29T23:59:59Z
+Final unique jobs: 5,460
+Job-skill relationships: 13,122
+Unique extracted skills: 44
+Jobs with at least one extracted skill: 3,383 (62.0%)
+Jobs with explicit experience: 2,477 (45.4%)
+Observed posting dates: 3,888 (71.2%)
+Proxy posting dates: 1,572 (28.8%)
+Salary-analysis rows: 92 (1.7%)
+Unique employers: 1,941
+Specific-city locations: 114
+SOURCE MIX
+----------
+            jobs  share_pct
+api_source
+Freehire    2407      44.08
+Jooble      1572      28.79
+Adzuna      1143      20.93
+JSearch      338       6.19
+
+ROLE FAMILIES
+-------------
+                                       jobs  share_pct
+role_family
+Data Analyst                           1946      35.64
+General Analytics Analyst               673      12.33
+BI / Reporting Analyst                  544       9.96
+Business Analyst                        492       9.01
+Product Analyst                         334       6.12
+Pricing / Revenue / Finance Analytics   320       5.86
+Analytics Analyst                       294       5.38
+Analytics Leadership                    226       4.14
+Operations / Supply Chain Analytics     174       3.19
+Data Quality / Governance Analyst       131       2.40
+Insights Analyst                        122       2.23
+Strategy / Performance Analytics        114       2.09
+Risk / Fraud Analytics                   51       0.93
+Marketing / Customer Analytics           39       0.71
+
+ROLE CLASSIFICATION RULES
+-------------------------
+                 jobs  share_pct
+role_rule
+frozen_taxonomy  5460      100.0
+
+TOP 20 SKILLS
+-------------
+                  jobs  share_all_jobs_pct  share_skill_tagged_pct
+skill
+SQL               1801               32.99                   53.24
+Excel             1530               28.02                   45.23
+Power BI          1388               25.42                   41.03
+Python            1158               21.21                   34.23
+Tableau            960               17.58                   28.38
+Statistics         721               13.21                   21.31
+Forecasting        525                9.62                   15.52
+Data Modeling      409                7.49                   12.09
+SAP                340                6.23                   10.05
+ETL                322                5.90                    9.52
+Azure              288                5.27                    8.51
+Snowflake          264                4.84                    7.80
+Machine Learning   263                4.82                    7.77
+AWS                246                4.51                    7.27
+Jira               239                4.38                    7.06
+Databricks         212                3.88                    6.27
+Data Warehousing   205                3.75                    6.06
+Looker             181                3.32                    5.35
+A/B Testing        159                2.91                    4.70
+Alteryx            154                2.82                    4.55
+
+EXPERIENCE BANDS
+----------------
+                 jobs  share_pct
+experience_band
+Not Specified    2983      54.63
+3–4               524       9.60
+5–6               458       8.39
+2–3               407       7.45
+4–5               299       5.48
+1–2               227       4.16
+6–7               148       2.71
+7–8               106       1.94
+8–9                94       1.72
+10–15              92       1.68
+0–1                82       1.50
+15+                24       0.44
+9–10               16       0.29
+
+SENIORITY
+---------
+                 jobs  share_pct
+seniority_level
+Not Specified    3482      63.77
+Senior           1471      26.94
+Lead / Manager    507       9.29
+
+EXPERIENCE AND ENTRY-LEVEL OPPORTUNITY BY ROLE
+----------------------------------------------
+                                       jobs  explicit_experience  entry_level  experience_coverage_pct  entry_level_share_pct
+role_family
+Data Analyst                           1946                  552          168                    28.37                   8.63
+General Analytics Analyst               673                  533          184                    79.20                  27.34
+BI / Reporting Analyst                  544                  148           48                    27.21                   8.82
+Business Analyst                        492                  307           73                    62.40                  14.84
+Product Analyst                         334                  110           28                    32.93                   8.38
+Pricing / Revenue / Finance Analytics   320                  228           69                    71.25                  21.56
+Analytics Analyst                       294                   89           19                    30.27                   6.46
+Analytics Leadership                    226                  175           16                    77.43                   7.08
+Operations / Supply Chain Analytics     174                  112           35                    64.37                  20.11
+Data Quality / Governance Analyst       131                   51           16                    38.93                  12.21
+Insights Analyst                        122                   45           11                    36.89                   9.02
+Strategy / Performance Analytics        114                   67           37                    58.77                  32.46
+Risk / Fraud Analytics                   51                   35            7                    68.63                  13.73
+Marketing / Customer Analytics           39                   25            5                    64.10                  12.82
+
+TOP 20 CITY LABELS
+------------------
+                    jobs  share_known_city_pct
+city
+Bengaluru           1628                 34.25
+Hyderabad            742                 15.61
+Pune                 479                 10.08
+Mumbai               470                  9.89
+Gurugram             406                  8.54
+Chennai              221                  4.65
+Noida                187                  3.93
+Secunderabad         125                  2.63
+Delhi                122                  2.57
+Ahmedabad             51                  1.07
+Kolkata               27                  0.57
+Vadodara              25                  0.53
+Jaipur                17                  0.36
+Coimbatore            15                  0.32
+Chandigarh            15                  0.32
+Thane                 14                  0.29
+Thiruvananthapuram    11                  0.23
+Kochi                 10                  0.21
+Lucknow                8                  0.17
+Unknown                7                  0.15
+
+DATE BASIS BY SOURCE
+--------------------
+posting_date_basis  source_posted_at  source_updated_at_proxy
+api_source
+Adzuna                          1143                        0
+Freehire                        2407                        0
+JSearch                          338                        0
+Jooble                             0                     1572
+
+MONTHLY POSTINGS — OBSERVED DATES ONLY
+--------------------------------------
+posted_date
+2026-01      46
+2026-02      40
+2026-03      63
+2026-04      69
+2026-05     164
+2026-06     398
+2026-07     968
+2026-08    2140
+Freq: M
+
+SALARY COVERAGE BY SOURCE
+-------------------------
+            total_jobs  salary_eligible  eligible_pct
+api_source
+Adzuna            1143               63          5.51
+Freehire          2407               29          1.20
+JSearch            338                0          0.00
+Jooble            1572                0          0.00
+
+NORMALIZED SALARY SUMMARY
+-------------------------
+eligible_rows          92.0
+median_salary     1375000.0
+mean_salary       1450527.7
+p25_salary         633750.0
+p75_salary        2000000.0
+minimum_salary     175000.0
+maximum_salary    4500000.0
+
+ROLE FAMILY BY SOURCE — COUNTS
+------------------------------
+api_source                             Adzuna  Freehire  JSearch  Jooble
+role_family
+Analytics Analyst                         132        96       20      46
+Analytics Leadership                       15       186       17       8
+BI / Reporting Analyst                    173       135       28     208
+Business Analyst                           73       315       36      68
+Data Analyst                              487       412      112     935
+Data Quality / Governance Analyst          32        28       16      55
+General Analytics Analyst                  26       605       28      14
+Insights Analyst                           39        32       17      34
+Marketing / Customer Analytics              7        18        7       7
+Operations / Supply Chain Analytics        18       133       15       8
+Pricing / Revenue / Finance Analytics      51       253       12       4
+Product Analyst                            72        76       15     171
+Risk / Fraud Analytics                      4        34        8       5
+Strategy / Performance Analytics           14        84        7       9
+
+TOP FIVE SKILLS WITHIN EACH ROLE FAMILY
+---------------------------------------
+                                                     jobs
+role_family                           skill
+Analytics Analyst                     SQL              73
+                                      Power BI         65
+                                      Statistics       64
+                                      Excel            55
+                                      Python           50
+Analytics Leadership                  SQL             137
+                                      Python          126
+                                      Power BI        114
+                                      Tableau          90
+                                      Statistics       85
+BI / Reporting Analyst                Power BI        130
+                                      SQL             113
+                                      Tableau          89
+                                      Excel            85
+                                      Data Modeling    54
+Business Analyst                      SQL             251
+                                      Excel           183
+                                      Power BI        123
+                                      Jira            118
+                                      Tableau          92
+Data Analyst                          SQL             582
+                                      Power BI        397
+                                      Python          395
+                                      Excel           301
+                                      Tableau         271
+Data Quality / Governance Analyst     SQL              32
+                                      Excel            23
+                                      Python           18
+                                      Power BI         16
+                                      ETL              12
+General Analytics Analyst             Excel           385
+                                      SQL             362
+                                      Power BI        308
+                                      Python          267
+                                      Tableau         204
+Insights Analyst                      Power BI         33
+                                      Excel            28
+                                      Tableau          26
+                                      SQL              24
+                                      Python           23
+Marketing / Customer Analytics        Power BI         17
+                                      SQL              17
+                                      Tableau          17
+                                      Excel            13
+                                      A/B Testing      11
+Operations / Supply Chain Analytics   Excel            95
+                                      SQL              62
+                                      Power BI         53
+                                      SAP              37
+                                      Python           36
+Pricing / Revenue / Finance Analytics Excel           191
+                                      Forecasting     172
+                                      Power BI         85
+                                      SAP              78
+                                      Tableau          55
+Product Analyst                       SQL              63
+                                      Python           36
+                                      A/B Testing      25
+                                      Jira             23
+                                      Excel            20
+Risk / Fraud Analytics                Python           26
+                                      SQL              23
+                                      Statistics       20
+                                      Excel            19
+                                      Power BI         12
+Strategy / Performance Analytics      Excel            54
+                                      Python           39
+                                      SQL              26
+                                      Power BI         16
+                                      Tableau          15
+
+GENERAL ANALYTICS BUCKET AUDIT
+------------------------------
+Jobs: 673 (12.33%)
+
+title
+Senior Analyst                                                                                        36
+Analyst                                                                                               13
+Assistant Analyst                                                                                      5
+Orchestration Analyst                                                                                  3
+Lead Analyst                                                                                           3
+Senior Analyst II                                                                                      3
+Aftersales Solutions Analyst II                                                                        3
+Analyst, Deal & Cash Ops                                                                               2
+Business Data Intelligence Analyst - Environmental Sustainability                                      2
+Senior Analyst - CRM                                                                                   2
+Production Senior Analyst                                                                              2
+Sr. Analyst – HR Operations EDM                                                                        2
+Quality Project Analyst (Power BI & Advanced Excel)                                                    2
+Package Health Analyst                                                                                 2
+Retail analyst / Marketing analytics                                                                   2
+Machine Learning Senior Analyst - HIH - Evernorth                                                      2
+Senior Analyst, Strategy & Analytics - Strategic Partnerships (Bangkok-based, Relocation Provided)     2
+Supply Analyst                                                                                         2
+Senior Billing Analyst                                                                                 2
+Validation Analyst                                                                                     2
+Data Governance Innovation Analyst                                                                     2
+Platform Analyst for Signavio                                                                          2
+Senior Analyst - Governance                                                                            2
+PMO Analyst                                                                                            2
+HIH- Data Management Strategy & Governance Lead Analyst                                                2
+Associate Support Analyst                                                                              2
+Senior Analyst - Contacts Management - Remote India                                                    2
+Principal Analyst, Forecasting                                                                         2
+Senior Engineering Intelligence Analyst                                                                2
+Sr Analyst Intercompany I                                                                              2

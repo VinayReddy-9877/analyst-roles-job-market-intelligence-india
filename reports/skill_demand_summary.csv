@@ -1,0 +1,45 @@
+skill,job_count,skill_category,share_of_all_jobs_pct,share_of_skill_tagged_jobs_pct
+SQL,1801,Database / Query,32.99,53.24
+Excel,1530,Spreadsheet,28.02,45.23
+Power BI,1388,BI / Visualization,25.42,41.03
+Python,1158,Programming,21.21,34.23
+Tableau,960,BI / Visualization,17.58,28.38
+Statistics,721,Statistics / Analytics,13.21,21.31
+Forecasting,525,Statistics / Analytics,9.62,15.52
+Data Modeling,409,Data Engineering,7.49,12.09
+SAP,340,Enterprise Tool,6.23,10.05
+ETL,322,Data Engineering,5.9,9.52
+Azure,288,Cloud,5.27,8.51
+Snowflake,264,Cloud / Warehouse,4.84,7.8
+Machine Learning,263,Machine Learning,4.82,7.77
+AWS,246,Cloud,4.51,7.27
+Jira,239,Collaboration Tool,4.38,7.06
+Databricks,212,Data Engineering,3.88,6.27
+Data Warehousing,205,Data Engineering,3.75,6.06
+Looker,181,BI / Visualization,3.32,5.35
+A/B Testing,159,Statistics / Analytics,2.91,4.7
+Alteryx,154,Analytics Tool,2.82,4.55
+Spark,149,Data Engineering,2.73,4.4
+Power Query,131,BI / Visualization,2.4,3.87
+SAS,127,Statistics / Analytics,2.33,3.75
+GCP,126,Cloud,2.31,3.72
+Regression,121,Statistics / Analytics,2.22,3.58
+Pandas,116,Programming,2.12,3.43
+DAX,111,BI / Visualization,2.03,3.28
+SQL Server,108,Database / Query,1.98,3.19
+Git,105,Developer Tool,1.92,3.1
+Qlik,83,BI / Visualization,1.52,2.45
+BigQuery,81,Cloud / Warehouse,1.48,2.39
+ELT,80,Data Engineering,1.47,2.36
+NumPy,63,Programming,1.15,1.86
+Redshift,51,Cloud / Warehouse,0.93,1.51
+dbt,49,Data Engineering,0.9,1.45
+Airflow,47,Data Engineering,0.86,1.39
+Hadoop,46,Data Engineering,0.84,1.36
+MySQL,41,Database / Query,0.75,1.21
+PostgreSQL,37,Database / Query,0.68,1.09
+SPSS,28,Statistics / Analytics,0.51,0.83
+SSIS,24,Data Engineering,0.44,0.71
+Oracle,19,Database / Query,0.35,0.56
+R,7,Programming,0.13,0.21
+SciPy,7,Programming,0.13,0.21

@@ -1,0 +1,23 @@
+DATA ANALYST JOB MARKET INTELLIGENCE — SQL RECONCILIATION
+====================================================================
+unique_vacancies | unique_companies | specific_city_labels | role_families | skill_tagged_jobs | skill_coverage_pct | experience_labeled_jobs | experience_coverage_pct | salary_source_jobs | salary_source_coverage_pct | salary_analysis_jobs | salary_analysis_coverage_pct | recent_90d_jobs | complete_week_jobs
+5460 | 1941 | 114 | 14 | 3383 | 61.96 | 2477 | 45.37 | 105 | 1.92 | 92 | 1.68 | 3506 | 3268
+
+fact_jobs | job_skill_rows | unique_skills | salary_analysis_rows
+5460 | 13122 | 44 | 92
+
+source_family | job_count | share_pct
+Freehire | 2407 | 44.08
+Jooble | 1572 | 28.79
+Adzuna | 1143 | 20.93
+JSearch | 338 | 6.19
+
+salary_evidence_group | salary_n | median_salary_inr
+SQL-detected | 43 | 1650000
+Other-skill-detected | 16 | 825000
+Skill-unknown | 33 | 750000
+
+Adjusted SQL association (n=59): +44.4%
+95% CI: -2.7% to +114.3%
+Model p-value: 0.069
+Interpretation: statistically inconclusive, observational, not causal.

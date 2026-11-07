@@ -1,0 +1,47 @@
+{
+  "dataset_freeze_date": "2026-08-30",
+  "window_start_utc": "2026-01-01T00:00:00Z",
+  "window_end_utc": "2026-08-29T23:59:59Z",
+  "final_unique_jobs": 5460,
+  "skill_bridge_rows": 13122,
+  "unique_skills": 44,
+  "skill_tagged_jobs": 3383,
+  "salary_analysis_eligible": 92,
+  "proxy_dated_jobs": 1572,
+  "observed_dated_jobs": 3888,
+  "specific_city_jobs": 4725,
+  "specific_city_labels": 114,
+  "verification_status": "PASS",
+  "sha256": {
+    "data/processed/job_postings_clean.csv": "fb384bf31e6279dfd87d57b1bf5b7b121b2d4b83f0ae974988d59ca82dcdaf9a",
+    "data/processed/job_skills_bridge.csv": "f57bf451d1dcaaeee9fcde24306b1b725060ae42a738afa924b67e5a573db5f0",
+    "notebooks/analysis.ipynb": "14c88f934170b07acc4f38e6ad0eb50786320ac80466b67ea564565eaf65363e",
+    "dashboard/DataAnalystJobMarketIntelligence.pbix": "1a6627219b0feca7d1d7fe07531898b0650ed6cb2fc7094d60b8360c88d296a3",
+    "dashboard/screenshots/01_executive_overview.png": "439c289e67b4bee2e2a8010a80117c796b00a6d03cfe03a7d285b91b77f42829",
+    "dashboard/screenshots/02_skills_and_experience.png": "eee74a32346d88d32fc93ef145fc84ab23f59b743d6e7827c45438e0cba90730",
+    "dashboard/screenshots/03_salary_insights.png": "e81f5c77d84a8fb13be79f6832fb8a592b3bc36e9c4022ef47047b412a6e4864",
+    "dashboard/screenshots/04_role_and_location.png": "48f5d2a9ba20b3f098bda39c916f143d55c2010b8950cf605f6b08858e58d272",
+    "dashboard/screenshots/05_trends_and_statistical.png": "be4210cefca07c2e257f77a626af2969b867d1a036c65eac5265ed20c1dcdbb3"
+  },
+  "source_mix": {
+    "Freehire": 2407,
+    "Jooble": 1572,
+    "Adzuna": 1143,
+    "JSearch": 338
+  },
+  "headline_checks": {
+    "top_role_family": "Data Analyst",
+    "top_role_jobs": 1946,
+    "top_skill": "SQL",
+    "top_skill_jobs": 1801,
+    "top_specific_city": "Bengaluru",
+    "top_specific_city_jobs": 1628,
+    "sql_salary_observations": 43,
+    "non_sql_salary_observations": 49,
+    "observed_sql_minus_non_sql_median_lakh": 9.0,
+    "bootstrap_95_percent_ci_lakh": [
+      2.5,
+      12.5
+    ]
+  }
+}

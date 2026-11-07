@@ -1,0 +1,115 @@
+city,state,job_count,metro_area,share_pct
+Bengaluru,Karnataka,1628,Bengaluru Metro,29.82
+Hyderabad,Telangana,742,Hyderabad Metro,13.59
+Pune,Maharashtra,479,Pune,8.77
+Mumbai,Maharashtra,470,Mumbai Metro,8.61
+Gurugram,Haryana,406,Delhi NCR,7.44
+Chennai,Tamil Nadu,221,Chennai,4.05
+Noida,Uttar Pradesh,187,Delhi NCR,3.42
+Secunderabad,Telangana,125,Hyderabad Metro,2.29
+Delhi,Delhi,122,Delhi NCR,2.23
+Ahmedabad,Gujarat,51,Ahmedabad,0.93
+Kolkata,West Bengal,27,Kolkata,0.49
+Vadodara,Gujarat,25,Vadodara,0.46
+Jaipur,Rajasthan,17,Jaipur,0.31
+Chandigarh,Chandigarh,15,Chandigarh,0.27
+Coimbatore,Tamil Nadu,15,Coimbatore,0.27
+Thane,Maharashtra,14,Mumbai Metro,0.26
+Thiruvananthapuram,Kerala,11,Thiruvananthapuram,0.2
+Kochi,Kerala,10,Kochi,0.18
+Lucknow,Uttar Pradesh,8,Lucknow,0.15
+Bhubaneswar,Odisha,6,Bhubaneswar,0.11
+Ajmer,Rajasthan,6,Ajmer,0.11
+Indore,Madhya Pradesh,6,Indore,0.11
+Sahibzada Ajit Singh Nagar,Punjab,5,Sahibzada Ajit Singh Nagar,0.09
+India-Manesar,Unknown,4,India-Manesar,0.07
+Madurai,Unknown,3,Madurai,0.05
+Gandhinagar,Gujarat,3,Gandhinagar,0.05
+DLF Downtown,Unknown,3,DLF Downtown,0.05
+Pimpri-Chinchwad,Maharashtra,3,Pimpri-Chinchwad,0.05
+Surat,Unknown,3,Surat,0.05
+Udupi,Unknown,3,Udupi,0.05
+Nagpur,Maharashtra,3,Nagpur,0.05
+Nagar,Unknown,3,Nagar,0.05
+Mysuru,Unknown,2,Mysuru,0.04
+Visakhapatnam,Andhra Pradesh,2,Visakhapatnam,0.04
+Bhopal,Madhya Pradesh,2,Bhopal,0.04
+Calicut,Kerala,2,Calicut,0.04
+Bhavnagar,Unknown,2,Bhavnagar,0.04
+Mysore,Karnataka,2,Mysore,0.04
+Ludhiana,Punjab,2,Ludhiana,0.04
+Mangalore,Unknown,2,Mangalore,0.04
+Mohali,Punjab,2,Mohali,0.04
+Indiranagar,Karnataka,2,Indiranagar,0.04
+Nanded,Unknown,2,Nanded,0.04
+Banglore,Unknown,2,Banglore,0.04
+Amritsar,Unknown,2,Amritsar,0.04
+Bagaluru,Karnataka,2,Bagaluru,0.04
+Faridabad,Unknown,2,Delhi NCR,0.04
+Fertilizer Corporation Of India Township,Odisha,2,Fertilizer Corporation Of India Township,0.04
+Ernakulam,Kerala,2,Ernakulam,0.04
+Dehradun,Unknown,2,Dehradun,0.04
+IN,Unknown,2,IN,0.04
+Gwalior,Madhya Pradesh,1,Gwalior,0.02
+Gaya,Unknown,1,Gaya,0.02
+GDC Financial District,Unknown,1,GDC Financial District,0.02
+GCC Service India Pvt. Ltd.,Unknown,1,GCC Service India Pvt. Ltd.,0.02
+Ghaziabad,Unknown,1,Delhi NCR,0.02
+Dabaspete,Unknown,1,Dabaspete,0.02
+Erode,Tamil Nadu,1,Erode,0.02
+Bombay,Maharashtra,1,Bombay,0.02
+Bilaspur,Haryana,1,Bilaspur,0.02
+Bengalaru,Unknown,1,Bengalaru,0.02
+California,Unknown,1,California,0.02
+Chauth Ka Barwara,Unknown,1,Chauth Ka Barwara,0.02
+DLF Cybercity,Unknown,1,DLF Cybercity,0.02
+Cuttack,Unknown,1,Cuttack,0.02
+DLF CYBERCITY 12B,Unknown,1,DLF CYBERCITY 12B,0.02
+Aurangabad,Unknown,1,Aurangabad,0.02
+Any,Unknown,1,Any,0.02
+Badgaon,Unknown,1,Badgaon,0.02
+1401-G-India: Indiabulls Mega Mall,Unknown,1,1401-G-India: Indiabulls Mega Mall,0.02
+Agra,Unknown,1,Agra,0.02
+Amravati,Unknown,1,Amravati,0.02
+Ambedkar Nagar,Unknown,1,Ambedkar Nagar,0.02
+Ahmadabad,Unknown,1,Ahmadabad,0.02
+Baramati,Unknown,1,Baramati,0.02
+Barasat,Unknown,1,Barasat,0.02
+Barcelona,Unknown,1,Barcelona,0.02
+Barabanki,Unknown,1,Barabanki,0.02
+Barrackpore,Unknown,1,Barrackpore,0.02
+Central Region Engagement Hub IN,Unknown,1,Central Region Engagement Hub IN,0.02
+Jalandhar,Punjab,1,Jalandhar,0.02
+Hamirpur,Uttar Pradesh,1,Hamirpur,0.02
+Mahasamund,Unknown,1,Mahasamund,0.02
+Maneja,Gujarat,1,Maneja,0.02
+Kolhapur,Unknown,1,Kolhapur,0.02
+Jammu,Unknown,1,Jammu,0.02
+Kingston,Unknown,1,Kingston,0.02
+Kanpur,Unknown,1,Kanpur,0.02
+Kotagiri,Unknown,1,Kotagiri,0.02
+Hayathnagar_Khalsa,Telangana,1,Hayathnagar_Khalsa,0.02
+IND NOID C-25 SEC-62 TWR 1,Unknown,1,IND NOID C-25 SEC-62 TWR 1,0.02
+IND D3 STPI,Unknown,1,IND D3 STPI,0.02
+Hisar,Haryana,1,Hisar,0.02
+Hosur,Tamil Nadu,1,Hosur,0.02
+India - HQ,Unknown,1,India - HQ,0.02
+India Office,Unknown,1,India Office,0.02
+Itanagar,Unknown,1,Itanagar,0.02
+Panchkula,Unknown,1,Panchkula,0.02
+SG_9001_India,Unknown,1,SG_9001_India,0.02
+S.A.S.Nagar (Mohali),Unknown,1,S.A.S.Nagar (Mohali),0.02
+Raipur,Unknown,1,Raipur,0.02
+Prantij,Unknown,1,Prantij,0.02
+Patna,Unknown,1,Patna,0.02
+Office India,Unknown,1,Office India,0.02
+Palwal,Unknown,1,Palwal,0.02
+Shaikpet,Unknown,1,Shaikpet,0.02
+TPIN GGN DLF 10B,Unknown,1,TPIN GGN DLF 10B,0.02
+Surat City,Unknown,1,Surat City,0.02
+Solapur,Unknown,1,Solapur,0.02
+Sivakasi,Unknown,1,Sivakasi,0.02
+Seri Lingampally,Unknown,1,Seri Lingampally,0.02
+Telangana (Sandoz),Telangana,1,Telangana (Sandoz),0.02
+Tirupati,Unknown,1,Tirupati,0.02
+Yavatmal,Unknown,1,Yavatmal,0.02

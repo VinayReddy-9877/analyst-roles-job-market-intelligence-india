@@ -1,0 +1,74 @@
+DATA ANALYST JOB MARKET INTELLIGENCE — VALIDATION
+==============================================================
+dataset_freeze_date: 2026-08-30
+jobs: 5,460
+job_skill_rows: 13,122
+scope: all
+status: PASS
+
+PASS  SHA-256: data/processed/job_postings_clean.csv
+PASS  SHA-256: data/processed/job_skills_bridge.csv
+PASS  SHA-256: notebooks/analysis.ipynb
+PASS  SHA-256: dashboard/DataAnalystJobMarketIntelligence.pbix
+PASS  SHA-256: dashboard/screenshots/01_executive_overview.png
+PASS  SHA-256: dashboard/screenshots/02_skills_and_experience.png
+PASS  SHA-256: dashboard/screenshots/03_salary_insights.png
+PASS  SHA-256: dashboard/screenshots/04_role_and_location.png
+PASS  SHA-256: dashboard/screenshots/05_trends_and_statistical.png
+PASS  Jobs table has required columns
+PASS  Skills table has required columns
+PASS  Unique job count
+PASS  Job-skill row count
+PASS  Distinct skill count
+PASS  Job IDs are unique and populated
+PASS  Job-skill pairs are unique
+PASS  Skills contain no orphan job IDs
+PASS  Job skill counts match the bridge
+PASS  Skill coverage flags match the bridge
+PASS  Skill-tagged job count
+PASS  Reporting dates are populated
+PASS  Observed/proxy date split
+PASS  Observed-date flag agrees with provenance
+PASS  Recent postings require observed dates
+PASS  Complete weeks require observed dates
+PASS  Recent observed posting count
+PASS  Earlier observed posting count
+PASS  Proxy-dated posting count
+PASS  Specific-city job count
+PASS  Specific-city label count
+PASS  Source mix
+PASS  Salary-eligible row count
+PASS  Eligible salaries are complete and positive
+PASS  Salary midpoints match min/max
+PASS  Top role result
+PASS  Top skill result
+PASS  Top city result
+PASS  Salary-evidence groups partition eligible postings
+PASS  SQL-detected salary observations
+PASS  Other-skill-detected salary observations
+PASS  Unknown-skill salary observations
+PASS  Three-group salary evidence report exists
+PASS  Adjusted salary regression summary exists
+PASS  Salary evidence CSV reconciles to raw group medians
+PASS  Regression summary has correctly scoped sample and caveats
+PASS  City report has one row per city label
+PASS  City report reconciles to specific-city jobs
+PASS  Experience report reconciles to all jobs
+PASS  Experience labeled shares exclude unspecified jobs
+PASS  Weekly trend contains complete observed weeks only
+PASS  Required refreshed figures exist
+PASS  Unused analyst measures are absent
+PASS  Complete-week trend measures are documented
+PASS  Power BI report contains the five expected pages
+PASS  Power BI report contains 30 Card visuals
+PASS  Trend charts use Week Start and Complete Week Jobs
+PASS  Trend charts carry the collection-bias annotation
+PASS  Experience distribution uses a bar chart
+PASS  Work-mode chart is framed as disclosure
+PASS  Report visuals do not reference unused analyst measures
+PASS  Salary page does not make the obsolete SQL/non-SQL comparison
+PASS  Power BI model excludes unused analyst measures
+PASS  Power BI model has no obsolete full-sample salary-bootstrap measures
+PASS  Power BI Jobs table matches the processed CSV
+PASS  Power BI Skills table matches the processed CSV
+PASS  Recruiter preview contains all five dashboard pages

@@ -1,0 +1,26 @@
+source_family,period,skill,total_jobs,tagged_jobs,skill_jobs,skill_share_pct,skill_coverage_pct
+Adzuna,Earlier observed,SQL,158,63,28,17.72,39.87
+Adzuna,Earlier observed,Excel,158,63,23,14.56,39.87
+Adzuna,Earlier observed,Power BI,158,63,15,9.49,39.87
+Adzuna,Earlier observed,Python,158,63,16,10.13,39.87
+Adzuna,Earlier observed,Tableau,158,63,9,5.7,39.87
+Adzuna,Recent 90 days,SQL,985,266,103,10.46,27.01
+Adzuna,Recent 90 days,Excel,985,266,61,6.19,27.01
+Adzuna,Recent 90 days,Power BI,985,266,61,6.19,27.01
+Adzuna,Recent 90 days,Python,985,266,50,5.08,27.01
+Adzuna,Recent 90 days,Tableau,985,266,33,3.35,27.01
+Freehire,Earlier observed,SQL,224,209,118,52.68,93.3
+Freehire,Earlier observed,Excel,224,209,107,47.77,93.3
+Freehire,Earlier observed,Power BI,224,209,101,45.09,93.3
+Freehire,Earlier observed,Python,224,209,84,37.5,93.3
+Freehire,Earlier observed,Tableau,224,209,59,26.34,93.3
+Freehire,Recent 90 days,SQL,2183,2034,1137,52.08,93.17
+Freehire,Recent 90 days,Excel,2183,2034,1065,48.79,93.17
+Freehire,Recent 90 days,Power BI,2183,2034,870,39.85,93.17
+Freehire,Recent 90 days,Python,2183,2034,767,35.14,93.17
+Freehire,Recent 90 days,Tableau,2183,2034,636,29.13,93.17
+JSearch,Recent 90 days,SQL,338,318,224,66.27,94.08
+JSearch,Recent 90 days,Excel,338,318,149,44.08,94.08
+JSearch,Recent 90 days,Power BI,338,318,181,53.55,94.08
+JSearch,Recent 90 days,Python,338,318,147,43.49,94.08
+JSearch,Recent 90 days,Tableau,338,318,128,37.87,94.08

@@ -1,0 +1,14 @@
+Advertised salary and SQL detection: conditional exploratory analysis
+======================================================================
+Salary-eligible postings: 92
+SQL detected: 43
+Other extracted skills, no SQL tag: 16
+Skills not extracted: 33
+Regression sample: 59 disclosed-salary jobs with extracted-skill evidence
+Model: log(midpoint advertised annual INR salary) ~ SQL detection + source + seniority + minimum years of experience + experience missingness
+Heteroskedasticity-robust HC3 confidence interval (95%).
+Conditional association: 44.4% (95% CI -2.7% to 114.3%).
+Model p-value: 0.069.
+This association is not causal and is not generalizable to all job postings.
+Unspecified or poorly described skills cannot be treated as an explicit no-SQL requirement.
+Controls are necessarily coarse: n is small and only postings with salary data are included.

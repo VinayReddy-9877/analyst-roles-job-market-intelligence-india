@@ -1,0 +1,8 @@
+skill,skill_category,salary_n,median_salary,mean_salary,median_difference_vs_overall_pct
+SQL,Database / Query,43,1650000.0,1644966.2441860465,20.0
+Python,Programming,21,1950000.0,1861904.761904762,41.82
+Excel,Spreadsheet,20,950000.0,1183500.0,-30.91
+Power BI,BI / Visualization,18,1525000.0,1446111.111111111,10.91
+Tableau,BI / Visualization,10,1950000.0,2118250.0,41.82
+Statistics,Statistics / Analytics,6,2750000.0,2375000.0,100.0
+AWS,Cloud,5,2000000.0,2130000.0,45.45

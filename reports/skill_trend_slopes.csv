@@ -1,0 +1,11 @@
+skill,weekly_share_slope_pp,ci_lower_pp,ci_upper_pp,direction,interpretation
+Statistics,0.47095254010695214,0.3278823395266125,0.6140227406872918,Positive observed slope,Collection snapshot; not a hiring-growth estimate
+Power BI,0.33555147058823603,-0.009401885404007881,0.68050482658048,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate
+Tableau,0.2745922459893054,0.026637715139561646,0.522546776839049,Positive observed slope,Collection snapshot; not a hiring-growth estimate
+SAP,0.25873663101604283,0.09848484288258119,0.41898841914950447,Positive observed slope,Collection snapshot; not a hiring-growth estimate
+Forecasting,0.20608288770053518,-0.06179450088677885,0.4739602762878492,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate
+Excel,0.19909425133689906,-0.2707711692376498,0.6689596719114479,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate
+Python,0.19427139037433203,-0.14736635081342822,0.5359091315620923,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate
+Data Modeling,0.013111631016043127,-0.2856327741114263,0.31185603614351254,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate
+SQL,-0.025023395721924042,-0.4867178607849158,0.43667106934106775,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate
+ETL,-0.08057486631016042,-0.2572255314553188,0.09607579883499798,Inconclusive observed slope,Collection snapshot; not a hiring-growth estimate

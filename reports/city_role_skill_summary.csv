@@ -1,0 +1,285 @@
+city,dimension,category,posting_count
+Bengaluru,role,Analytics Analyst,69
+Bengaluru,role,Analytics Leadership,65
+Bengaluru,role,BI / Reporting Analyst,145
+Bengaluru,role,Business Analyst,147
+Bengaluru,role,Data Analyst,547
+Bengaluru,role,Data Quality / Governance Analyst,41
+Bengaluru,role,General Analytics Analyst,211
+Bengaluru,role,Insights Analyst,25
+Bengaluru,role,Marketing / Customer Analytics,8
+Bengaluru,role,Operations / Supply Chain Analytics,66
+Bengaluru,role,Pricing / Revenue / Finance Analytics,142
+Bengaluru,role,Product Analyst,138
+Bengaluru,role,Risk / Fraud Analytics,13
+Bengaluru,role,Strategy / Performance Analytics,11
+Gurugram,role,Analytics Analyst,14
+Gurugram,role,Analytics Leadership,35
+Gurugram,role,BI / Reporting Analyst,25
+Gurugram,role,Business Analyst,33
+Gurugram,role,Data Analyst,162
+Gurugram,role,Data Quality / Governance Analyst,5
+Gurugram,role,General Analytics Analyst,47
+Gurugram,role,Insights Analyst,4
+Gurugram,role,Marketing / Customer Analytics,1
+Gurugram,role,Operations / Supply Chain Analytics,13
+Gurugram,role,Pricing / Revenue / Finance Analytics,17
+Gurugram,role,Product Analyst,26
+Gurugram,role,Risk / Fraud Analytics,2
+Gurugram,role,Strategy / Performance Analytics,22
+Hyderabad,role,Analytics Analyst,60
+Hyderabad,role,Analytics Leadership,48
+Hyderabad,role,BI / Reporting Analyst,58
+Hyderabad,role,Business Analyst,88
+Hyderabad,role,Data Analyst,178
+Hyderabad,role,Data Quality / Governance Analyst,22
+Hyderabad,role,General Analytics Analyst,121
+Hyderabad,role,Insights Analyst,28
+Hyderabad,role,Marketing / Customer Analytics,11
+Hyderabad,role,Operations / Supply Chain Analytics,24
+Hyderabad,role,Pricing / Revenue / Finance Analytics,47
+Hyderabad,role,Product Analyst,44
+Hyderabad,role,Risk / Fraud Analytics,7
+Hyderabad,role,Strategy / Performance Analytics,6
+Mumbai,role,Analytics Analyst,23
+Mumbai,role,Analytics Leadership,29
+Mumbai,role,BI / Reporting Analyst,53
+Mumbai,role,Business Analyst,43
+Mumbai,role,Data Analyst,143
+Mumbai,role,Data Quality / Governance Analyst,7
+Mumbai,role,General Analytics Analyst,78
+Mumbai,role,Insights Analyst,16
+Mumbai,role,Marketing / Customer Analytics,3
+Mumbai,role,Operations / Supply Chain Analytics,9
+Mumbai,role,Pricing / Revenue / Finance Analytics,26
+Mumbai,role,Product Analyst,8
+Mumbai,role,Risk / Fraud Analytics,13
+Mumbai,role,Strategy / Performance Analytics,19
+Pune,role,Analytics Analyst,18
+Pune,role,Analytics Leadership,15
+Pune,role,BI / Reporting Analyst,33
+Pune,role,Business Analyst,54
+Pune,role,Data Analyst,182
+Pune,role,Data Quality / Governance Analyst,19
+Pune,role,General Analytics Analyst,84
+Pune,role,Insights Analyst,9
+Pune,role,Marketing / Customer Analytics,1
+Pune,role,Operations / Supply Chain Analytics,18
+Pune,role,Pricing / Revenue / Finance Analytics,31
+Pune,role,Product Analyst,13
+Pune,role,Risk / Fraud Analytics,1
+Pune,role,Strategy / Performance Analytics,1
+Bengaluru,skill,A/B Testing,52
+Bengaluru,skill,AWS,83
+Bengaluru,skill,Airflow,17
+Bengaluru,skill,Alteryx,52
+Bengaluru,skill,Azure,95
+Bengaluru,skill,BigQuery,32
+Bengaluru,skill,DAX,36
+Bengaluru,skill,Data Modeling,122
+Bengaluru,skill,Data Warehousing,55
+Bengaluru,skill,Databricks,70
+Bengaluru,skill,ELT,20
+Bengaluru,skill,ETL,107
+Bengaluru,skill,Excel,489
+Bengaluru,skill,Forecasting,201
+Bengaluru,skill,GCP,42
+Bengaluru,skill,Git,36
+Bengaluru,skill,Hadoop,11
+Bengaluru,skill,Jira,69
+Bengaluru,skill,Looker,73
+Bengaluru,skill,Machine Learning,90
+Bengaluru,skill,MySQL,10
+Bengaluru,skill,NumPy,20
+Bengaluru,skill,Oracle,10
+Bengaluru,skill,Pandas,40
+Bengaluru,skill,PostgreSQL,11
+Bengaluru,skill,Power BI,462
+Bengaluru,skill,Power Query,49
+Bengaluru,skill,Python,378
+Bengaluru,skill,Qlik,31
+Bengaluru,skill,R,4
+Bengaluru,skill,Redshift,28
+Bengaluru,skill,Regression,43
+Bengaluru,skill,SAP,139
+Bengaluru,skill,SAS,56
+Bengaluru,skill,SPSS,8
+Bengaluru,skill,SQL,580
+Bengaluru,skill,SQL Server,40
+Bengaluru,skill,SSIS,9
+Bengaluru,skill,SciPy,2
+Bengaluru,skill,Snowflake,76
+Bengaluru,skill,Spark,58
+Bengaluru,skill,Statistics,244
+Bengaluru,skill,Tableau,344
+Bengaluru,skill,dbt,18
+Gurugram,skill,A/B Testing,17
+Gurugram,skill,AWS,23
+Gurugram,skill,Airflow,6
+Gurugram,skill,Alteryx,10
+Gurugram,skill,Azure,24
+Gurugram,skill,BigQuery,3
+Gurugram,skill,DAX,13
+Gurugram,skill,Data Modeling,29
+Gurugram,skill,Data Warehousing,16
+Gurugram,skill,Databricks,16
+Gurugram,skill,ELT,4
+Gurugram,skill,ETL,19
+Gurugram,skill,Excel,115
+Gurugram,skill,Forecasting,42
+Gurugram,skill,GCP,5
+Gurugram,skill,Git,12
+Gurugram,skill,Hadoop,9
+Gurugram,skill,Jira,14
+Gurugram,skill,Looker,8
+Gurugram,skill,Machine Learning,24
+Gurugram,skill,MySQL,1
+Gurugram,skill,NumPy,3
+Gurugram,skill,Oracle,1
+Gurugram,skill,Pandas,8
+Gurugram,skill,PostgreSQL,2
+Gurugram,skill,Power BI,114
+Gurugram,skill,Power Query,12
+Gurugram,skill,Python,103
+Gurugram,skill,Qlik,6
+Gurugram,skill,R,1
+Gurugram,skill,Redshift,1
+Gurugram,skill,Regression,13
+Gurugram,skill,SAP,10
+Gurugram,skill,SAS,22
+Gurugram,skill,SPSS,2
+Gurugram,skill,SQL,160
+Gurugram,skill,SQL Server,6
+Gurugram,skill,SSIS,3
+Gurugram,skill,Snowflake,22
+Gurugram,skill,Spark,14
+Gurugram,skill,Statistics,72
+Gurugram,skill,Tableau,79
+Gurugram,skill,dbt,5
+Hyderabad,skill,A/B Testing,34
+Hyderabad,skill,AWS,56
+Hyderabad,skill,Airflow,15
+Hyderabad,skill,Alteryx,40
+Hyderabad,skill,Azure,68
+Hyderabad,skill,BigQuery,11
+Hyderabad,skill,DAX,17
+Hyderabad,skill,Data Modeling,94
+Hyderabad,skill,Data Warehousing,55
+Hyderabad,skill,Databricks,60
+Hyderabad,skill,ELT,27
+Hyderabad,skill,ETL,71
+Hyderabad,skill,Excel,264
+Hyderabad,skill,Forecasting,99
+Hyderabad,skill,GCP,36
+Hyderabad,skill,Git,28
+Hyderabad,skill,Hadoop,12
+Hyderabad,skill,Jira,74
+Hyderabad,skill,Looker,32
+Hyderabad,skill,Machine Learning,53
+Hyderabad,skill,MySQL,7
+Hyderabad,skill,NumPy,20
+Hyderabad,skill,Pandas,22
+Hyderabad,skill,PostgreSQL,8
+Hyderabad,skill,Power BI,270
+Hyderabad,skill,Power Query,20
+Hyderabad,skill,Python,220
+Hyderabad,skill,Qlik,15
+Hyderabad,skill,Redshift,11
+Hyderabad,skill,Regression,24
+Hyderabad,skill,SAP,58
+Hyderabad,skill,SAS,13
+Hyderabad,skill,SPSS,6
+Hyderabad,skill,SQL,347
+Hyderabad,skill,SQL Server,17
+Hyderabad,skill,SSIS,2
+Hyderabad,skill,SciPy,4
+Hyderabad,skill,Snowflake,79
+Hyderabad,skill,Spark,23
+Hyderabad,skill,Statistics,166
+Hyderabad,skill,Tableau,194
+Hyderabad,skill,dbt,10
+Mumbai,skill,A/B Testing,5
+Mumbai,skill,AWS,22
+Mumbai,skill,Airflow,3
+Mumbai,skill,Alteryx,19
+Mumbai,skill,Azure,23
+Mumbai,skill,BigQuery,14
+Mumbai,skill,DAX,7
+Mumbai,skill,Data Modeling,35
+Mumbai,skill,Data Warehousing,16
+Mumbai,skill,Databricks,12
+Mumbai,skill,ELT,4
+Mumbai,skill,ETL,34
+Mumbai,skill,Excel,158
+Mumbai,skill,Forecasting,45
+Mumbai,skill,GCP,14
+Mumbai,skill,Git,8
+Mumbai,skill,Hadoop,1
+Mumbai,skill,Jira,7
+Mumbai,skill,Looker,13
+Mumbai,skill,Machine Learning,19
+Mumbai,skill,MySQL,4
+Mumbai,skill,NumPy,1
+Mumbai,skill,Oracle,2
+Mumbai,skill,Pandas,2
+Mumbai,skill,PostgreSQL,1
+Mumbai,skill,Power BI,90
+Mumbai,skill,Power Query,11
+Mumbai,skill,Python,107
+Mumbai,skill,Qlik,13
+Mumbai,skill,R,1
+Mumbai,skill,Redshift,1
+Mumbai,skill,Regression,7
+Mumbai,skill,SAP,19
+Mumbai,skill,SAS,5
+Mumbai,skill,SPSS,1
+Mumbai,skill,SQL,138
+Mumbai,skill,SQL Server,8
+Mumbai,skill,SSIS,2
+Mumbai,skill,Snowflake,12
+Mumbai,skill,Spark,4
+Mumbai,skill,Statistics,64
+Mumbai,skill,Tableau,81
+Mumbai,skill,dbt,1
+Pune,skill,A/B Testing,8
+Pune,skill,AWS,21
+Pune,skill,Airflow,3
+Pune,skill,Alteryx,10
+Pune,skill,Azure,31
+Pune,skill,BigQuery,9
+Pune,skill,DAX,15
+Pune,skill,Data Modeling,51
+Pune,skill,Data Warehousing,21
+Pune,skill,Databricks,23
+Pune,skill,ELT,7
+Pune,skill,ETL,31
+Pune,skill,Excel,141
+Pune,skill,Forecasting,45
+Pune,skill,GCP,7
+Pune,skill,Git,8
+Pune,skill,Hadoop,11
+Pune,skill,Jira,36
+Pune,skill,Looker,13
+Pune,skill,Machine Learning,22
+Pune,skill,MySQL,3
+Pune,skill,NumPy,7
+Pune,skill,Oracle,1
+Pune,skill,Pandas,8
+Pune,skill,PostgreSQL,5
+Pune,skill,Power BI,141
+Pune,skill,Power Query,10
+Pune,skill,Python,99
+Pune,skill,Qlik,10
+Pune,skill,Redshift,3
+Pune,skill,Regression,15
+Pune,skill,SAP,60
+Pune,skill,SAS,7
+Pune,skill,SPSS,2
+Pune,skill,SQL,183
+Pune,skill,SQL Server,10
+Pune,skill,SSIS,2
+Pune,skill,Snowflake,30
+Pune,skill,Spark,22
+Pune,skill,Statistics,57
+Pune,skill,Tableau,69
+Pune,skill,dbt,6

@@ -1,0 +1,19 @@
+DATA ANALYST JOB MARKET INTELLIGENCE — ANALYTICAL DATASET REPORT
+============================================================================
+collection_snapshot: 2026-08-30
+posting_window: 2026-01-01T00:00:00+00:00 to 2026-08-29T23:59:59+00:00
+raw_candidate_rows: 104,079
+role_and_quality_exclusions: 98,259
+cross_source_duplicates_removed: 360
+processed_job_rows: 5,460
+skill_bridge_rows: 13,122
+unique_skills: 44
+skill_coverage_pct: 61.96
+experience_coverage_pct: 45.37
+salary_source_rows: 105
+salary_source_coverage_pct: 1.92
+salary_analysis_rows: 92
+salary_analysis_coverage_pct: 1.68
+posting_date_proxy_rows: 1,572
+
+The raw and row-level audit files remain on the collection machine. This portfolio copy contains the frozen analytical layer and the release checks used to validate it.

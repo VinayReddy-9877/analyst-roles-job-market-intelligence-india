@@ -1,0 +1,32 @@
+skill,skill_category,salary_n,median_salary,mean_salary,median_difference_vs_overall_pct
+SQL,Database / Query,43,1650000.0,1644966.2441860465,20.0
+Python,Programming,21,1950000.0,1861904.761904762,41.82
+Excel,Spreadsheet,20,950000.0,1183500.0,-30.91
+Power BI,BI / Visualization,18,1525000.0,1446111.111111111,10.91
+Tableau,BI / Visualization,10,1950000.0,2118250.0,41.82
+Statistics,Statistics / Analytics,6,2750000.0,2375000.0,100.0
+AWS,Cloud,5,2000000.0,2130000.0,45.45
+Jira,Collaboration Tool,4,1875000.0,1937500.0,36.36
+Looker,BI / Visualization,4,1825000.0,1575000.0,32.73
+Machine Learning,Machine Learning,4,3000000.0,3250000.0,118.18
+Azure,Cloud,4,1850000.0,1800000.0,34.55
+ETL,Data Engineering,3,1600000.0,1233333.3333333333,16.36
+Forecasting,Statistics / Analytics,3,1650000.0,1575000.0,20.0
+Git,Developer Tool,3,2000000.0,2166666.6666666665,45.45
+Data Modeling,Data Engineering,3,400000.0,1266666.6666666667,-70.91
+Regression,Statistics / Analytics,3,2000000.0,1833333.3333333333,45.45
+Spark,Data Engineering,2,1175000.0,1175000.0,-14.55
+GCP,Cloud,2,2000000.0,2000000.0,45.45
+BigQuery,Cloud / Warehouse,2,2875000.0,2875000.0,109.09
+DAX,BI / Visualization,2,1200000.0,1200000.0,-12.73
+Snowflake,Cloud / Warehouse,2,3375000.0,3375000.0,145.45
+Power Query,BI / Visualization,2,1375000.0,1375000.0,0.0
+NumPy,Programming,2,1350000.0,1350000.0,-1.82
+Pandas,Programming,2,1350000.0,1350000.0,-1.82
+SQL Server,Database / Query,2,1600000.0,1600000.0,16.36
+A/B Testing,Statistics / Analytics,1,1650000.0,1650000.0,20.0
+ELT,Data Engineering,1,400000.0,400000.0,-70.91
+SAP,Enterprise Tool,1,480000.0,480000.0,-65.09
+Redshift,Cloud / Warehouse,1,3750000.0,3750000.0,172.73
+SSIS,Data Engineering,1,1700000.0,1700000.0,23.64
+dbt,Data Engineering,1,3000000.0,3000000.0,118.18

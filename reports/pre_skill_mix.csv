@@ -1,0 +1,44 @@
+period,skill,skill_category,skill_jobs,share_pct
+Pre-90-day period,A/B Testing,Statistics / Analytics,9,2.36
+Pre-90-day period,AWS,Cloud,24,6.28
+Pre-90-day period,Airflow,Data Engineering,3,0.79
+Pre-90-day period,Alteryx,Analytics Tool,14,3.66
+Pre-90-day period,Azure,Cloud,26,6.81
+Pre-90-day period,BigQuery,Cloud / Warehouse,4,1.05
+Pre-90-day period,DAX,BI / Visualization,12,3.14
+Pre-90-day period,Data Modeling,Data Engineering,35,9.16
+Pre-90-day period,Data Warehousing,Data Engineering,16,4.19
+Pre-90-day period,Databricks,Data Engineering,15,3.93
+Pre-90-day period,ELT,Data Engineering,6,1.57
+Pre-90-day period,ETL,Data Engineering,26,6.81
+Pre-90-day period,Excel,Spreadsheet,130,34.03
+Pre-90-day period,Forecasting,Statistics / Analytics,43,11.26
+Pre-90-day period,GCP,Cloud,11,2.88
+Pre-90-day period,Git,Developer Tool,7,1.83
+Pre-90-day period,Hadoop,Data Engineering,5,1.31
+Pre-90-day period,Jira,Collaboration Tool,20,5.24
+Pre-90-day period,Looker,BI / Visualization,10,2.62
+Pre-90-day period,Machine Learning,Machine Learning,25,6.54
+Pre-90-day period,MySQL,Database / Query,2,0.52
+Pre-90-day period,NumPy,Programming,9,2.36
+Pre-90-day period,Oracle,Database / Query,2,0.52
+Pre-90-day period,Pandas,Programming,9,2.36
+Pre-90-day period,PostgreSQL,Database / Query,5,1.31
+Pre-90-day period,Power BI,BI / Visualization,116,30.37
+Pre-90-day period,Power Query,BI / Visualization,7,1.83
+Pre-90-day period,Python,Programming,100,26.18
+Pre-90-day period,Qlik,BI / Visualization,9,2.36
+Pre-90-day period,R,Programming,1,0.26
+Pre-90-day period,Redshift,Cloud / Warehouse,5,1.31
+Pre-90-day period,Regression,Statistics / Analytics,7,1.83
+Pre-90-day period,SAP,Enterprise Tool,24,6.28
+Pre-90-day period,SAS,Statistics / Analytics,7,1.83
+Pre-90-day period,SPSS,Statistics / Analytics,4,1.05
+Pre-90-day period,SQL,Database / Query,146,38.22
+Pre-90-day period,SQL Server,Database / Query,7,1.83
+Pre-90-day period,SciPy,Programming,1,0.26
+Pre-90-day period,Snowflake,Cloud / Warehouse,22,5.76
+Pre-90-day period,Spark,Data Engineering,16,4.19
+Pre-90-day period,Statistics,Statistics / Analytics,43,11.26
+Pre-90-day period,Tableau,BI / Visualization,68,17.8
+Pre-90-day period,dbt,Data Engineering,2,0.52

@@ -1,0 +1,45 @@
+period,skill,skill_category,skill_jobs,share_pct
+Recent 90 days,A/B Testing,Statistics / Analytics,132,3.76
+Recent 90 days,AWS,Cloud,210,5.99
+Recent 90 days,Airflow,Data Engineering,43,1.23
+Recent 90 days,Alteryx,Analytics Tool,132,3.76
+Recent 90 days,Azure,Cloud,254,7.24
+Recent 90 days,BigQuery,Cloud / Warehouse,71,2.03
+Recent 90 days,DAX,BI / Visualization,92,2.62
+Recent 90 days,Data Modeling,Data Engineering,364,10.38
+Recent 90 days,Data Warehousing,Data Engineering,180,5.13
+Recent 90 days,Databricks,Data Engineering,191,5.45
+Recent 90 days,ELT,Data Engineering,73,2.08
+Recent 90 days,ETL,Data Engineering,272,7.76
+Recent 90 days,Excel,Spreadsheet,1275,36.37
+Recent 90 days,Forecasting,Statistics / Analytics,456,13.01
+Recent 90 days,GCP,Cloud,108,3.08
+Recent 90 days,Git,Developer Tool,98,2.8
+Recent 90 days,Hadoop,Data Engineering,39,1.11
+Recent 90 days,Jira,Collaboration Tool,216,6.16
+Recent 90 days,Looker,BI / Visualization,156,4.45
+Recent 90 days,Machine Learning,Machine Learning,224,6.39
+Recent 90 days,MySQL,Database / Query,21,0.6
+Recent 90 days,NumPy,Programming,54,1.54
+Recent 90 days,Oracle,Database / Query,16,0.46
+Recent 90 days,Pandas,Programming,89,2.54
+Recent 90 days,PostgreSQL,Database / Query,28,0.8
+Recent 90 days,Power BI,BI / Visualization,1112,31.72
+Recent 90 days,Power Query,BI / Visualization,118,3.37
+Recent 90 days,Python,Programming,964,27.5
+Recent 90 days,Qlik,BI / Visualization,70,2.0
+Recent 90 days,R,Programming,6,0.17
+Recent 90 days,Redshift,Cloud / Warehouse,46,1.31
+Recent 90 days,Regression,Statistics / Analytics,113,3.22
+Recent 90 days,SAP,Enterprise Tool,308,8.78
+Recent 90 days,SAS,Statistics / Analytics,111,3.17
+Recent 90 days,SPSS,Statistics / Analytics,24,0.68
+Recent 90 days,SQL,Database / Query,1464,41.76
+Recent 90 days,SQL Server,Database / Query,95,2.71
+Recent 90 days,SSIS,Data Engineering,23,0.66
+Recent 90 days,SciPy,Programming,6,0.17
+Recent 90 days,Snowflake,Cloud / Warehouse,231,6.59
+Recent 90 days,Spark,Data Engineering,112,3.19
+Recent 90 days,Statistics,Statistics / Analytics,643,18.34
+Recent 90 days,Tableau,BI / Visualization,797,22.73
+Recent 90 days,dbt,Data Engineering,47,1.34

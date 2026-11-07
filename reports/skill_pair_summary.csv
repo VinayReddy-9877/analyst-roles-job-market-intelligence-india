@@ -1,0 +1,837 @@
+pair_jobs,skill_1,skill_2,pair_share_of_skill_tagged_jobs_pct
+901,Python,SQL,26.63
+805,Power BI,SQL,23.8
+759,Excel,Power BI,22.44
+719,Excel,SQL,21.25
+668,SQL,Tableau,19.75
+645,Power BI,Tableau,19.07
+568,Power BI,Python,16.79
+507,Excel,Tableau,14.99
+499,SQL,Statistics,14.75
+480,Python,Tableau,14.19
+471,Excel,Python,13.92
+421,Python,Statistics,12.44
+372,Power BI,Statistics,11.0
+343,Excel,Statistics,10.14
+332,Data Modeling,SQL,9.81
+331,Statistics,Tableau,9.78
+282,ETL,SQL,8.34
+276,Excel,Forecasting,8.16
+251,Data Modeling,Power BI,7.42
+229,Forecasting,Power BI,6.77
+228,SQL,Snowflake,6.74
+201,Azure,SQL,5.94
+194,Machine Learning,Python,5.73
+193,Excel,SAP,5.7
+192,Data Modeling,Python,5.68
+190,Forecasting,SQL,5.62
+188,Power BI,SAP,5.56
+187,Machine Learning,SQL,5.53
+183,ETL,Python,5.41
+179,AWS,SQL,5.29
+176,Jira,SQL,5.2
+176,Python,Snowflake,5.2
+172,Databricks,SQL,5.08
+172,Data Warehousing,SQL,5.08
+168,Azure,Power BI,4.97
+165,Forecasting,Python,4.88
+162,Forecasting,Tableau,4.79
+161,ETL,Power BI,4.76
+161,AWS,Python,4.76
+157,Databricks,Python,4.64
+152,Azure,Python,4.49
+152,Power BI,Snowflake,4.49
+151,Looker,SQL,4.46
+150,Data Modeling,Excel,4.43
+144,Databricks,Power BI,4.26
+135,Looker,Tableau,3.99
+132,Machine Learning,Statistics,3.9
+130,AWS,Azure,3.84
+128,Data Modeling,Tableau,3.78
+127,Data Modeling,Statistics,3.75
+124,SAP,SQL,3.67
+124,Data Modeling,ETL,3.67
+122,SQL,Spark,3.61
+121,Looker,Power BI,3.58
+121,A/B Testing,SQL,3.58
+117,Machine Learning,Power BI,3.46
+116,Power BI,Power Query,3.43
+116,ETL,Tableau,3.43
+116,Pandas,Python,3.43
+115,Data Warehousing,Power BI,3.4
+115,Snowflake,Tableau,3.4
+111,Looker,Python,3.28
+111,AWS,Power BI,3.28
+108,DAX,Power BI,3.19
+108,SQL,SQL Server,3.19
+107,Python,Spark,3.16
+105,Data Warehousing,Python,3.1
+104,Forecasting,Statistics,3.07
+102,Machine Learning,Tableau,3.02
+102,Data Modeling,Data Warehousing,3.02
+102,A/B Testing,Python,3.02
+101,AWS,Tableau,2.99
+101,Alteryx,SQL,2.99
+99,ETL,Statistics,2.93
+97,Pandas,SQL,2.87
+97,Databricks,Tableau,2.87
+96,Azure,Tableau,2.84
+96,Snowflake,Statistics,2.84
+96,Excel,Power Query,2.84
+96,Data Warehousing,ETL,2.84
+95,SAS,SQL,2.81
+95,Alteryx,Power BI,2.81
+94,Forecasting,SAP,2.78
+94,Databricks,Statistics,2.78
+92,Regression,SQL,2.72
+92,Excel,Jira,2.72
+91,Git,SQL,2.69
+91,DAX,SQL,2.69
+91,GCP,SQL,2.69
+90,A/B Testing,Tableau,2.66
+89,Git,Python,2.63
+88,SAP,Tableau,2.6
+85,Data Warehousing,Tableau,2.51
+85,ETL,Excel,2.51
+84,Power Query,SQL,2.48
+83,Python,SAS,2.45
+83,Alteryx,Python,2.45
+83,Azure,Data Modeling,2.45
+82,Python,Regression,2.42
+81,Data Modeling,Snowflake,2.39
+81,Azure,ETL,2.39
+81,A/B Testing,Power BI,2.39
+80,Pandas,Power BI,2.36
+79,Alteryx,Excel,2.34
+79,Jira,Power BI,2.34
+79,Azure,Statistics,2.34
+78,Python,SAP,2.31
+78,A/B Testing,Statistics,2.31
+77,Alteryx,Tableau,2.28
+76,BigQuery,SQL,2.25
+76,ELT,SQL,2.25
+75,Excel,Machine Learning,2.22
+75,DAX,Data Modeling,2.22
+75,SAS,Statistics,2.22
+73,Azure,Excel,2.16
+72,Databricks,Excel,2.13
+72,SAS,Tableau,2.13
+71,Pandas,Tableau,2.1
+70,Databricks,Snowflake,2.07
+68,ELT,ETL,2.01
+67,GCP,Python,1.98
+67,AWS,GCP,1.98
+67,AWS,Excel,1.98
+67,Excel,Snowflake,1.98
+67,AWS,Statistics,1.98
+65,AWS,ETL,1.92
+64,Azure,GCP,1.89
+64,ETL,Snowflake,1.89
+63,NumPy,Python,1.86
+63,Jira,Python,1.86
+63,Azure,Databricks,1.86
+63,Data Warehousing,Snowflake,1.86
+63,Power BI,Spark,1.86
+62,Looker,Statistics,1.83
+62,Power BI,SQL Server,1.83
+62,AWS,Data Modeling,1.83
+62,NumPy,Pandas,1.83
+61,Data Warehousing,Statistics,1.8
+61,Data Modeling,Forecasting,1.8
+60,Azure,Data Warehousing,1.77
+59,BigQuery,Python,1.74
+59,ELT,Python,1.74
+59,DAX,Power Query,1.74
+58,Qlik,Tableau,1.71
+58,NumPy,SQL,1.71
+57,Excel,SAS,1.68
+57,Databricks,Spark,1.68
+56,Spark,Tableau,1.66
+56,Azure,Jira,1.66
+56,Qlik,SQL,1.66
+56,Excel,Looker,1.66
+56,Jira,Tableau,1.66
+55,Data Warehousing,Excel,1.63
+55,Power BI,Qlik,1.63
+54,Azure,Snowflake,1.6
+53,Regression,Statistics,1.57
+53,Data Modeling,ELT,1.57
+52,GCP,Power BI,1.54
+52,Power BI,SAS,1.54
+51,Data Modeling,Power Query,1.51
+51,Data Modeling,Databricks,1.51
+51,Python,SQL Server,1.51
+51,DAX,Python,1.51
+51,Pandas,Statistics,1.51
+50,Forecasting,Machine Learning,1.48
+50,Excel,Pandas,1.48
+50,AWS,Databricks,1.48
+50,DAX,Excel,1.48
+50,Data Modeling,SAP,1.48
+50,Data Modeling,Machine Learning,1.48
+49,Spark,Statistics,1.45
+49,SAP,Statistics,1.45
+48,Power Query,Python,1.42
+48,Redshift,SQL,1.42
+48,A/B Testing,Excel,1.42
+48,BigQuery,Tableau,1.42
+47,Databricks,ETL,1.39
+47,AWS,Snowflake,1.39
+46,ELT,Power BI,1.36
+46,Regression,Tableau,1.36
+46,BigQuery,Looker,1.36
+45,Alteryx,Statistics,1.33
+45,Excel,SQL Server,1.33
+44,Power BI,Regression,1.3
+44,Hadoop,SQL,1.3
+43,SQL,dbt,1.27
+43,Excel,Regression,1.27
+43,A/B Testing,Looker,1.27
+43,Azure,Forecasting,1.27
+43,Airflow,SQL,1.27
+43,GCP,Tableau,1.27
+42,NumPy,Power BI,1.24
+42,Databricks,Machine Learning,1.24
+41,ETL,Machine Learning,1.21
+41,BigQuery,Power BI,1.21
+41,Python,dbt,1.21
+41,Azure,SQL Server,1.21
+39,Git,Power BI,1.15
+39,Excel,Spark,1.15
+39,Machine Learning,Snowflake,1.15
+39,Azure,Machine Learning,1.15
+38,Azure,Git,1.12
+38,Machine Learning,Regression,1.12
+37,Azure,SAP,1.09
+37,Power Query,Tableau,1.09
+37,Data Warehousing,ELT,1.09
+37,Data Warehousing,Databricks,1.09
+37,AWS,Data Warehousing,1.09
+37,Python,Redshift,1.09
+37,NumPy,Tableau,1.09
+37,Data Modeling,SQL Server,1.09
+37,Data Modeling,Jira,1.09
+36,ETL,SQL Server,1.06
+36,Azure,Spark,1.06
+36,Redshift,Tableau,1.06
+36,NumPy,Statistics,1.06
+36,AWS,Git,1.06
+35,AWS,Machine Learning,1.03
+35,Azure,DAX,1.03
+35,Forecasting,Looker,1.03
+35,AWS,Forecasting,1.03
+35,ETL,Jira,1.03
+35,SQL Server,Statistics,1.03
+35,Excel,Qlik,1.03
+34,Forecasting,Power Query,1.01
+34,ETL,SAP,1.01
+34,SQL Server,Tableau,1.01
+33,Alteryx,ETL,0.98
+33,Python,Qlik,0.98
+33,Data Modeling,Looker,0.98
+32,BigQuery,Data Modeling,0.95
+32,Power Query,Statistics,0.95
+32,Airflow,Python,0.95
+32,ETL,Spark,0.95
+32,Data Modeling,Git,0.95
+31,Alteryx,Forecasting,0.92
+31,Forecasting,Snowflake,0.92
+31,Power Query,SAP,0.92
+30,Databricks,Forecasting,0.89
+30,MySQL,SQL,0.89
+30,Azure,ELT,0.89
+30,Machine Learning,Spark,0.89
+30,Snowflake,dbt,0.89
+30,Forecasting,Regression,0.89
+30,Hadoop,Spark,0.89
+30,Git,Tableau,0.89
+29,BigQuery,Statistics,0.86
+29,Excel,GCP,0.86
+29,Alteryx,Data Modeling,0.86
+29,AWS,Jira,0.86
+29,Power BI,dbt,0.86
+29,DAX,ETL,0.86
+29,PostgreSQL,SQL,0.86
+29,DAX,Statistics,0.86
+29,Hadoop,Python,0.86
+29,Git,Snowflake,0.86
+28,Power BI,Redshift,0.83
+28,Data Modeling,Spark,0.83
+28,ELT,Snowflake,0.83
+28,Qlik,Statistics,0.83
+28,Data Modeling,dbt,0.83
+28,Tableau,dbt,0.83
+28,Alteryx,Snowflake,0.83
+27,A/B Testing,Pandas,0.8
+27,ETL,Git,0.8
+27,GCP,Statistics,0.8
+27,Looker,Snowflake,0.8
+27,Git,Statistics,0.8
+26,ETL,Redshift,0.77
+26,Pandas,Snowflake,0.77
+26,Machine Learning,Pandas,0.77
+26,Data Warehousing,Machine Learning,0.77
+26,AWS,Redshift,0.77
+26,Machine Learning,SAS,0.77
+26,ETL,Power Query,0.77
+25,Jira,Regression,0.74
+25,BigQuery,Snowflake,0.74
+25,ETL,GCP,0.74
+25,Excel,NumPy,0.74
+25,Airflow,Power BI,0.74
+25,Jira,Statistics,0.74
+25,Data Modeling,GCP,0.74
+24,BigQuery,GCP,0.71
+24,Redshift,Statistics,0.71
+24,Data Warehousing,Looker,0.71
+24,ETL,Looker,0.71
+23,SQL,SSIS,0.68
+23,Azure,Regression,0.68
+23,GCP,Looker,0.68
+23,BigQuery,ETL,0.68
+23,ELT,Tableau,0.68
+23,Jira,SAP,0.68
+23,Alteryx,SAP,0.68
+23,Machine Learning,SAP,0.68
+22,DAX,SAP,0.65
+22,DAX,Forecasting,0.65
+22,DAX,Snowflake,0.65
+22,SPSS,Statistics,0.65
+22,A/B Testing,Forecasting,0.65
+22,Azure,Power Query,0.65
+22,Databricks,SAP,0.65
+22,Excel,Git,0.65
+22,ETL,SAS,0.65
+22,AWS,ELT,0.65
+22,AWS,SQL Server,0.65
+22,AWS,Spark,0.65
+22,Data Modeling,Redshift,0.65
+22,ETL,Forecasting,0.65
+21,Data Modeling,Qlik,0.62
+21,Airflow,Tableau,0.62
+21,DAX,Data Warehousing,0.62
+21,Forecasting,Jira,0.62
+21,Airflow,Snowflake,0.62
+21,A/B Testing,Snowflake,0.62
+21,MySQL,Python,0.62
+21,Power BI,SSIS,0.62
+21,Excel,SPSS,0.62
+21,A/B Testing,Databricks,0.62
+20,A/B Testing,NumPy,0.59
+20,A/B Testing,Machine Learning,0.59
+20,SAP,Snowflake,0.59
+20,SPSS,Tableau,0.59
+20,BigQuery,Data Warehousing,0.59
+20,SPSS,SQL,0.59
+20,BigQuery,Redshift,0.59
+20,Data Modeling,Pandas,0.59
+20,Redshift,Snowflake,0.59
+20,ELT,Statistics,0.59
+20,Data Warehousing,GCP,0.59
+19,DAX,Databricks,0.56
+19,AWS,Pandas,0.56
+19,Airflow,ETL,0.56
+19,Looker,Machine Learning,0.56
+19,Data Warehousing,Git,0.56
+19,Git,Machine Learning,0.56
+19,Jira,Snowflake,0.56
+19,AWS,Looker,0.56
+19,Git,Jira,0.56
+19,Machine Learning,NumPy,0.56
+19,Hadoop,Power BI,0.56
+19,Forecasting,SAS,0.56
+19,Pandas,Spark,0.56
+19,A/B Testing,Regression,0.56
+19,Forecasting,Pandas,0.56
+18,Azure,Pandas,0.53
+18,AWS,NumPy,0.53
+18,Airflow,Git,0.53
+18,Looker,Pandas,0.53
+18,Hadoop,Tableau,0.53
+18,PostgreSQL,Python,0.53
+18,Python,SPSS,0.53
+18,Excel,MySQL,0.53
+18,Databricks,Pandas,0.53
+18,Regression,SAS,0.53
+18,Snowflake,Spark,0.53
+17,ELT,Machine Learning,0.5
+17,MySQL,Tableau,0.5
+17,Data Warehousing,Spark,0.5
+17,SQL Server,Snowflake,0.5
+17,SAS,SPSS,0.5
+17,Looker,dbt,0.5
+17,Forecasting,Spark,0.5
+17,Databricks,SAS,0.5
+17,Data Warehousing,Redshift,0.5
+17,GCP,Git,0.5
+17,AWS,DAX,0.5
+17,Airflow,dbt,0.5
+17,Airflow,Data Modeling,0.5
+17,Excel,Redshift,0.5
+16,MySQL,Statistics,0.47
+16,Jira,SQL Server,0.47
+16,Databricks,Git,0.47
+16,Data Modeling,Regression,0.47
+16,Git,dbt,0.47
+16,AWS,Alteryx,0.47
+16,BigQuery,Excel,0.47
+16,Data Warehousing,SQL Server,0.47
+16,Airflow,Statistics,0.47
+16,Forecasting,Git,0.47
+16,Databricks,Jira,0.47
+16,ELT,Spark,0.47
+16,Hadoop,Statistics,0.47
+15,MySQL,PostgreSQL,0.44
+15,Databricks,ELT,0.44
+15,Alteryx,Power Query,0.44
+15,AWS,Airflow,0.44
+15,A/B Testing,Spark,0.44
+15,NumPy,Snowflake,0.44
+15,Git,Looker,0.44
+15,BigQuery,Pandas,0.44
+15,Data Warehousing,dbt,0.44
+15,Databricks,Regression,0.44
+15,Alteryx,Qlik,0.44
+15,A/B Testing,Data Modeling,0.44
+15,GCP,Machine Learning,0.44
+15,GCP,Spark,0.44
+15,Alteryx,Databricks,0.44
+15,Git,Spark,0.44
+15,Azure,NumPy,0.44
+15,Alteryx,Jira,0.44
+14,DAX,Tableau,0.41
+14,Machine Learning,Qlik,0.41
+14,BigQuery,Machine Learning,0.41
+14,Alteryx,Machine Learning,0.41
+14,Forecasting,GCP,0.41
+14,SQL Server,SSIS,0.41
+14,Azure,SSIS,0.41
+14,Databricks,Hadoop,0.41
+14,BigQuery,Git,0.41
+14,Jira,Machine Learning,0.41
+14,Regression,Snowflake,0.41
+14,Databricks,Qlik,0.41
+14,Oracle,SQL,0.41
+14,Databricks,SQL Server,0.41
+14,GCP,Snowflake,0.41
+14,Jira,Spark,0.41
+13,PostgreSQL,SQL Server,0.38
+13,Data Modeling,SSIS,0.38
+13,ETL,Qlik,0.38
+13,Looker,Regression,0.38
+13,ETL,dbt,0.38
+13,SSIS,Tableau,0.38
+13,Data Warehousing,SAP,0.38
+13,GCP,Hadoop,0.38
+13,AWS,SAS,0.38
+13,Databricks,Redshift,0.38
+13,AWS,Regression,0.38
+13,ELT,Git,0.38
+13,Airflow,GCP,0.38
+13,Data Warehousing,Power Query,0.38
+13,Azure,SAS,0.38
+13,Forecasting,NumPy,0.38
+13,Data Warehousing,Forecasting,0.38
+13,Databricks,Power Query,0.38
+13,Azure,BigQuery,0.38
+13,MySQL,Power BI,0.38
+13,Airflow,Azure,0.38
+13,Looker,Redshift,0.38
+13,BigQuery,Forecasting,0.38
+13,AWS,SAP,0.38
+13,BigQuery,Databricks,0.38
+12,Data Modeling,Hadoop,0.35
+12,SAS,Spark,0.35
+12,Databricks,Looker,0.35
+12,SSIS,Statistics,0.35
+12,Git,Regression,0.35
+12,Data Modeling,NumPy,0.35
+12,Regression,Spark,0.35
+12,DAX,SQL Server,0.35
+12,Python,SSIS,0.35
+12,AWS,PostgreSQL,0.35
+12,Machine Learning,SQL Server,0.35
+12,NumPy,Spark,0.35
+12,Excel,Hadoop,0.35
+12,ELT,SQL Server,0.35
+11,A/B Testing,AWS,0.33
+11,Jira,Power Query,0.33
+11,Qlik,SAP,0.33
+11,MySQL,SQL Server,0.33
+11,Azure,PostgreSQL,0.33
+11,Power Query,Snowflake,0.33
+11,AWS,MySQL,0.33
+11,Airflow,Hadoop,0.33
+11,Forecasting,dbt,0.33
+11,BigQuery,Spark,0.33
+11,ETL,Regression,0.33
+11,Airflow,Spark,0.33
+11,BigQuery,NumPy,0.33
+11,BigQuery,dbt,0.33
+11,Git,SQL Server,0.33
+11,ETL,Pandas,0.33
+11,ETL,Hadoop,0.33
+11,Statistics,dbt,0.33
+10,Azure,Qlik,0.3
+10,AWS,dbt,0.3
+10,A/B Testing,Data Warehousing,0.3
+10,ELT,Excel,0.3
+10,AWS,Hadoop,0.3
+10,AWS,BigQuery,0.3
+10,Azure,Hadoop,0.3
+10,Airflow,Data Warehousing,0.3
+10,PostgreSQL,Power BI,0.3
+10,Excel,PostgreSQL,0.3
+10,Azure,dbt,0.3
+10,A/B Testing,BigQuery,0.3
+10,Azure,Looker,0.3
+10,Power BI,SPSS,0.3
+10,GCP,NumPy,0.3
+10,Data Modeling,SAS,0.3
+10,Data Warehousing,SAS,0.3
+10,ETL,PostgreSQL,0.3
+10,Qlik,Spark,0.3
+10,Alteryx,DAX,0.3
+10,BigQuery,ELT,0.3
+10,Airflow,ELT,0.3
+10,Pandas,Regression,0.3
+10,Airflow,Databricks,0.3
+10,Data Warehousing,Regression,0.3
+9,Machine Learning,Power Query,0.27
+9,A/B Testing,Azure,0.27
+9,NumPy,Regression,0.27
+9,Airflow,Looker,0.27
+9,ELT,dbt,0.27
+9,Airflow,Redshift,0.27
+9,Looker,Spark,0.27
+9,Databricks,GCP,0.27
+9,Pandas,Redshift,0.27
+9,Redshift,SQL Server,0.27
+9,Databricks,NumPy,0.27
+9,Redshift,Spark,0.27
+9,Data Modeling,PostgreSQL,0.27
+9,AWS,Qlik,0.27
+9,Regression,SAP,0.27
+9,Data Warehousing,Pandas,0.27
+9,A/B Testing,ETL,0.27
+9,Data Warehousing,PostgreSQL,0.27
+9,DAX,GCP,0.27
+9,Excel,SSIS,0.27
+9,ELT,Looker,0.27
+9,ELT,Pandas,0.27
+9,A/B Testing,SAS,0.27
+9,GCP,Pandas,0.27
+9,Oracle,Statistics,0.27
+9,Excel,dbt,0.27
+9,DAX,ELT,0.27
+8,Airflow,Forecasting,0.24
+8,Jira,Qlik,0.24
+8,Airflow,Machine Learning,0.24
+8,Machine Learning,dbt,0.24
+8,SQL Server,Spark,0.24
+8,Data Modeling,MySQL,0.24
+8,ETL,SSIS,0.24
+8,Hadoop,Machine Learning,0.24
+8,DAX,Jira,0.24
+8,Alteryx,Data Warehousing,0.24
+8,Git,Pandas,0.24
+8,Qlik,Snowflake,0.24
+8,PostgreSQL,Tableau,0.24
+8,ELT,GCP,0.24
+8,Alteryx,Azure,0.24
+8,AWS,Power Query,0.24
+8,Git,Redshift,0.24
+8,Looker,NumPy,0.24
+8,ELT,Jira,0.24
+8,PostgreSQL,Statistics,0.24
+8,Data Warehousing,Jira,0.24
+7,Python,SciPy,0.21
+7,ETL,NumPy,0.21
+7,SQL,SciPy,0.21
+7,ETL,MySQL,0.21
+7,SciPy,Statistics,0.21
+7,Jira,Pandas,0.21
+7,Git,NumPy,0.21
+7,Pandas,SAP,0.21
+7,DAX,Machine Learning,0.21
+7,ELT,Power Query,0.21
+7,Redshift,dbt,0.21
+7,Azure,Oracle,0.21
+7,A/B Testing,Redshift,0.21
+7,GCP,Jira,0.21
+7,A/B Testing,SPSS,0.21
+7,BigQuery,Regression,0.21
+7,Machine Learning,Redshift,0.21
+7,Airflow,BigQuery,0.21
+7,Git,PostgreSQL,0.21
+7,GCP,SAP,0.21
+7,Alteryx,GCP,0.21
+7,SAP,SAS,0.21
+7,Power Query,Qlik,0.21
+6,NumPy,Redshift,0.18
+6,Airflow,Pandas,0.18
+6,Jira,Redshift,0.18
+6,ETL,Oracle,0.18
+6,Pandas,SciPy,0.18
+6,PostgreSQL,Snowflake,0.18
+6,Data Modeling,Oracle,0.18
+6,BigQuery,Qlik,0.18
+6,Airflow,Excel,0.18
+6,GCP,Redshift,0.18
+6,ETL,SPSS,0.18
+6,SAS,SQL Server,0.18
+6,Alteryx,SAS,0.18
+6,Forecasting,Redshift,0.18
+6,Jira,Looker,0.18
+6,Git,Hadoop,0.18
+6,Azure,Redshift,0.18
+6,Hadoop,SAS,0.18
+6,Excel,Oracle,0.18
+6,Data Warehousing,NumPy,0.18
+6,ELT,Redshift,0.18
+6,SSIS,Snowflake,0.18
+6,R,Tableau,0.18
+6,Qlik,Redshift,0.18
+6,Forecasting,Qlik,0.18
+6,Data Warehousing,Hadoop,0.18
+6,Azure,MySQL,0.18
+6,NumPy,SAP,0.18
+5,NumPy,SciPy,0.15
+5,DAX,Pandas,0.15
+5,Pandas,SQL Server,0.15
+5,MySQL,Snowflake,0.15
+5,Power Query,SQL Server,0.15
+5,Redshift,SAS,0.15
+5,Pandas,dbt,0.15
+5,Pandas,PostgreSQL,0.15
+5,DAX,dbt,0.15
+5,Oracle,Spark,0.15
+5,Data Warehousing,MySQL,0.15
+5,Oracle,Python,0.15
+5,ELT,SAP,0.15
+5,Databricks,Oracle,0.15
+5,GCP,dbt,0.15
+5,Jira,SAS,0.15
+5,Python,R,0.15
+5,Git,MySQL,0.15
+5,Alteryx,ELT,0.15
+5,Alteryx,Redshift,0.15
+5,Looker,Qlik,0.15
+5,A/B Testing,Alteryx,0.15
+5,Alteryx,BigQuery,0.15
+5,Databricks,PostgreSQL,0.15
+5,Alteryx,SPSS,0.15
+5,DAX,Spark,0.15
+5,GCP,PostgreSQL,0.15
+5,Git,Oracle,0.15
+5,AWS,SSIS,0.15
+5,MySQL,Redshift,0.15
+4,Qlik,SAS,0.12
+4,Airflow,Jira,0.12
+4,Hadoop,SQL Server,0.12
+4,ELT,Hadoop,0.12
+4,Databricks,dbt,0.12
+4,BigQuery,Jira,0.12
+4,Databricks,MySQL,0.12
+4,Qlik,SQL Server,0.12
+4,SAS,Snowflake,0.12
+4,AWS,Oracle,0.12
+4,R,SQL,0.12
+4,Power BI,R,0.12
+4,Machine Learning,SPSS,0.12
+4,Pandas,Power Query,0.12
+4,ELT,Qlik,0.12
+4,DAX,NumPy,0.12
+4,NumPy,Power Query,0.12
+4,Forecasting,SQL Server,0.12
+4,A/B Testing,Hadoop,0.12
+4,BigQuery,SAP,0.12
+4,NumPy,PostgreSQL,0.12
+4,Databricks,SSIS,0.12
+4,A/B Testing,dbt,0.12
+4,Oracle,SQL Server,0.12
+4,Data Warehousing,Oracle,0.12
+4,ELT,SAS,0.12
+4,Data Warehousing,SSIS,0.12
+4,PostgreSQL,Redshift,0.12
+4,Oracle,Power BI,0.12
+4,Data Warehousing,Qlik,0.12
+4,DAX,Git,0.12
+3,GCP,Qlik,0.09
+3,MySQL,SAS,0.09
+3,GCP,Power Query,0.09
+3,Alteryx,SQL Server,0.09
+3,Power Query,SAS,0.09
+3,GCP,MySQL,0.09
+3,Power BI,SciPy,0.09
+3,SciPy,Tableau,0.09
+3,GCP,Oracle,0.09
+3,Pandas,Qlik,0.09
+3,Regression,dbt,0.09
+3,A/B Testing,Jira,0.09
+3,A/B Testing,SQL Server,0.09
+3,GCP,SSIS,0.09
+3,Power Query,SSIS,0.09
+3,Hadoop,Snowflake,0.09
+3,Git,SAS,0.09
+3,PostgreSQL,Spark,0.09
+3,GCP,Regression,0.09
+3,Azure,SciPy,0.09
+3,AWS,SciPy,0.09
+3,Alteryx,Looker,0.09
+3,Machine Learning,PostgreSQL,0.09
+3,Hadoop,Looker,0.09
+3,Airflow,DAX,0.09
+3,ELT,Forecasting,0.09
+3,Alteryx,Hadoop,0.09
+3,Qlik,dbt,0.09
+3,MySQL,Spark,0.09
+3,Looker,Power Query,0.09
+3,R,Statistics,0.09
+3,Qlik,Regression,0.09
+3,Airflow,SQL Server,0.09
+3,Excel,R,0.09
+3,Power Query,Spark,0.09
+3,A/B Testing,Git,0.09
+3,SAP,SQL Server,0.09
+3,Looker,SAP,0.09
+3,Jira,dbt,0.09
+3,Hadoop,Qlik,0.09
+3,Forecasting,Hadoop,0.09
+3,DAX,Looker,0.09
+3,DAX,SSIS,0.09
+3,Forecasting,SPSS,0.09
+2,NumPy,SQL Server,0.06
+2,DAX,PostgreSQL,0.06
+2,Git,SAP,0.06
+2,BigQuery,PostgreSQL,0.06
+2,Spark,dbt,0.06
+2,Looker,PostgreSQL,0.06
+2,Hadoop,SPSS,0.06
+2,Data Modeling,R,0.06
+2,Machine Learning,MySQL,0.06
+2,Git,SciPy,0.06
+2,SAS,SSIS,0.06
+2,ELT,MySQL,0.06
+2,ELT,PostgreSQL,0.06
+2,Azure,SPSS,0.06
+2,Excel,SciPy,0.06
+2,Machine Learning,SciPy,0.06
+2,Qlik,SSIS,0.06
+2,A/B Testing,ELT,0.06
+2,Airflow,NumPy,0.06
+2,GCP,SciPy,0.06
+2,A/B Testing,Qlik,0.06
+2,DAX,Qlik,0.06
+2,Jira,PostgreSQL,0.06
+2,A/B Testing,SAP,0.06
+2,SSIS,Spark,0.06
+2,SQL Server,dbt,0.06
+2,Alteryx,SSIS,0.06
+2,Looker,SQL Server,0.06
+2,Alteryx,R,0.06
+2,Hadoop,Jira,0.06
+2,AWS,R,0.06
+2,Redshift,SSIS,0.06
+2,A/B Testing,Airflow,0.06
+2,SPSS,SQL Server,0.06
+2,PostgreSQL,dbt,0.06
+2,ELT,NumPy,0.06
+2,Redshift,SPSS,0.06
+2,Oracle,Tableau,0.06
+2,Looker,MySQL,0.06
+2,GCP,SQL Server,0.06
+2,Machine Learning,R,0.06
+2,Alteryx,Oracle,0.06
+2,Forecasting,Oracle,0.06
+2,R,Snowflake,0.06
+2,GCP,R,0.06
+2,R,Redshift,0.06
+2,Redshift,Regression,0.06
+2,Regression,SQL Server,0.06
+2,Airflow,Alteryx,0.06
+2,GCP,SAS,0.06
+2,Hadoop,Redshift,0.06
+2,ELT,Regression,0.06
+2,Airflow,PostgreSQL,0.06
+2,Airflow,MySQL,0.06
+2,Hadoop,PostgreSQL,0.06
+2,Git,Power Query,0.06
+2,BigQuery,SQL Server,0.06
+2,NumPy,dbt,0.06
+2,Hadoop,MySQL,0.06
+1,Pandas,SSIS,0.03
+1,MySQL,SSIS,0.03
+1,PostgreSQL,SAS,0.03
+1,PostgreSQL,SSIS,0.03
+1,NumPy,SSIS,0.03
+1,R,Regression,0.03
+1,DAX,Regression,0.03
+1,Power Query,Regression,0.03
+1,ELT,SSIS,0.03
+1,SAP,SciPy,0.03
+1,R,SAP,0.03
+1,DAX,R,0.03
+1,Jira,Oracle,0.03
+1,Oracle,SAP,0.03
+1,Oracle,Snowflake,0.03
+1,MySQL,dbt,0.03
+1,ELT,Oracle,0.03
+1,MySQL,SPSS,0.03
+1,BigQuery,MySQL,0.03
+1,NumPy,Qlik,0.03
+1,Regression,SPSS,0.03
+1,Redshift,SAP,0.03
+1,MySQL,Regression,0.03
+1,Power Query,dbt,0.03
+1,BigQuery,DAX,0.03
+1,Machine Learning,Oracle,0.03
+1,Forecasting,MySQL,0.03
+1,AWS,SPSS,0.03
+1,Looker,SPSS,0.03
+1,SAP,SSIS,0.03
+1,Machine Learning,SSIS,0.03
+1,SAP,SPSS,0.03
+1,Power Query,SPSS,0.03
+1,DAX,SAS,0.03
+1,DAX,SPSS,0.03
+1,Hadoop,Regression,0.03
+1,MySQL,Qlik,0.03
+1,Pandas,SAS,0.03
+1,NumPy,SAS,0.03
+1,Looker,SAS,0.03
+1,Oracle,Regression,0.03
+1,Data Modeling,SPSS,0.03
+1,Jira,NumPy,0.03
+1,Hadoop,SSIS,0.03
+1,DAX,MySQL,0.03
+1,MySQL,NumPy,0.03
+1,MySQL,Pandas,0.03
+1,Alteryx,dbt,0.03
+1,Airflow,Power Query,0.03
+1,DAX,Hadoop,0.03
+1,Hadoop,Power Query,0.03
+1,Hadoop,Pandas,0.03
+1,Hadoop,NumPy,0.03
+1,A/B Testing,PostgreSQL,0.03
+1,A/B Testing,SSIS,0.03
+1,A/B Testing,MySQL,0.03
+1,BigQuery,SciPy,0.03
+1,Airflow,Regression,0.03
+1,Regression,SciPy,0.03
+1,Alteryx,Regression,0.03
+1,Oracle,PostgreSQL,0.03
+1,MySQL,Oracle,0.03
+1,PostgreSQL,SAP,0.03
+1,SAP,Spark,0.03
+1,A/B Testing,DAX,0.03
+1,Alteryx,Spark,0.03
+1,Forecasting,SciPy,0.03
+1,BigQuery,SSIS,0.03
+1,Power Query,SciPy,0.03
+1,BigQuery,Hadoop,0.03
+1,SAP,dbt,0.03
+1,Jira,MySQL,0.03
+1,A/B Testing,SciPy,0.03
+1,Looker,SciPy,0.03
+1,Airflow,SAS,0.03

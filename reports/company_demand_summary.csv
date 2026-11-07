@@ -1,0 +1,1942 @@
+company_name,job_count,share_pct
+Genpact,179,3.28
+Citigroup,82,1.5
+JPMorgan Chase,68,1.25
+Accenture,60,1.1
+Amgen,59,1.08
+Barclays,58,1.06
+EXL,55,1.01
+Amazon,47,0.86
+Ecolab,38,0.7
+Milestone Online Technology,28,0.51
+Maxgen Technologies Private Limited,27,0.49
+American Express,27,0.49
+Jobgether,27,0.49
+PwC,25,0.46
+FedEx,25,0.46
+Medtronic,23,0.42
+"Council on Energy, Environment and Water",22,0.4
+General Mills,21,0.38
+Lowe's,20,0.37
+Cummins,20,0.37
+Bristol Myers Squibb,19,0.35
+Capco,19,0.35
+Novartis,19,0.35
+Moody's,19,0.35
+Honeywell,18,0.33
+Kraft Heinz,18,0.33
+Titanium Consulting,18,0.33
+Guidehouse,18,0.33
+NielsenIQ,18,0.33
+ABB,17,0.31
+Aspyra Hr Services,17,0.31
+S&P Global,17,0.31
+Hitachi Energy,17,0.31
+Mastercard,16,0.29
+EY,16,0.29
+Robosoft Technologies,16,0.29
+Hewlett Packard (HP),16,0.29
+Yash Technologies,16,0.29
+Oracle,16,0.29
+mufgub,16,0.29
+Cigna Group,15,0.27
+Thomson Reuters,15,0.27
+State Street,15,0.27
+Cohere Health,15,0.27
+Franklin Templeton,15,0.27
+Luxoft,14,0.26
+Okta,14,0.26
+One97 Communications Limited,14,0.26
+eClerx,14,0.26
+Paytm,14,0.26
+Sanofi,14,0.26
+Parexel,14,0.26
+Marsh,14,0.26
+Allegiance Benefit Plan Management,13,0.24
+Agoda,13,0.24
+PradeepIT Consulting Services Pvt Ltd,13,0.24
+BP,12,0.22
+Honeywell Technologies,12,0.22
+db,12,0.22
+Hewlett Packard Enterprise,12,0.22
+Goldman Sachs,12,0.22
+The Cigna Group,12,0.22
+UPS,11,0.2
+Fortive,11,0.2
+Blend,11,0.2
+nextracker,11,0.2
+Takeda Pharmaceutical,11,0.2
+HP,11,0.2
+Visa,11,0.2
+Thermo Fisher Scientific,11,0.2
+Albertsons Companies India,11,0.2
+NetApp,11,0.2
+SimCorp,11,0.2
+Ameriprise Financial,11,0.2
+McCormick & Company,10,0.18
+TransUnion,10,0.18
+Randstad,10,0.18
+Novel Office,10,0.18
+svb,10,0.18
+Acura Solution,10,0.18
+Syneos Health,10,0.18
+F5,10,0.18
+Kroll,10,0.18
+Medline,10,0.18
+Mattel Inc,10,0.18
+Avery Dennison,9,0.16
+Novartis India,9,0.16
+NatWest Group,9,0.16
+Weekday AI,9,0.16
+TriNet,9,0.16
+Headout,9,0.16
+Caterpillar Inc.,9,0.16
+JLL,9,0.16
+Ernst & Young,9,0.16
+KPMG Ukraine,9,0.16
+Wise,9,0.16
+Precision Medicine Group,9,0.16
+Deutsche Bank,9,0.16
+Clarivate,9,0.16
+Danaher,9,0.16
+hpe,9,0.16
+Blend360,9,0.16
+RELX,8,0.15
+weekday-1,8,0.15
+Straatix Partners,8,0.15
+Ethos Life,8,0.15
+NextHire,8,0.15
+Empower,8,0.15
+Morgan Stanley,8,0.15
+ValueMomentum,8,0.15
+Mantras2Success,8,0.15
+One 97,8,0.15
+Trigent Software Private Limited,8,0.15
+Roche,8,0.15
+Elsevier,8,0.15
+Cushman & Wakefield,7,0.13
+WPP,7,0.13
+RTX,7,0.13
+NTT Data,7,0.13
+Keyloop,7,0.13
+SkySun,7,0.13
+nVent,7,0.13
+Maersk,7,0.13
+ASSPL - Karnataka,7,0.13
+BlackRock,7,0.13
+abglobal,7,0.13
+Unisys,7,0.13
+FE fundinfo,7,0.13
+Applied Materials,7,0.13
+Sprinklr,7,0.13
+WSP,7,0.13
+Federal Express Corporation AMEA,7,0.13
+Dentsu,7,0.13
+TIAA,7,0.13
+Persistent Systems,7,0.13
+woodmac,7,0.13
+Sanofi: R&D-Driven and AI-Powered Biopharmaceutical Company,7,0.13
+Rubrik,7,0.13
+MiQ,7,0.13
+mmc,7,0.13
+U.S. Bank,7,0.13
+Yubi,7,0.13
+Inmobi,7,0.13
+lplfinancial,7,0.13
+Northern Trust,7,0.13
+ADV TECHMINDS,7,0.13
+GSPANN,7,0.13
+Johnson & Johnson,6,0.11
+CrowdStrike,6,0.11
+Tata Autocomp,6,0.11
+IFF,6,0.11
+Wells Fargo,6,0.11
+Talent Pro,6,0.11
+Takeda,6,0.11
+AstraZeneca,6,0.11
+Hitachi,6,0.11
+MetLife,6,0.11
+Portcast,6,0.11
+Avasant,6,0.11
+Quest Global,6,0.11
+Zynga,6,0.11
+Zeta Global,6,0.11
+Apraava Renewable Energy,6,0.11
+KPMG,6,0.11
+morningstar,6,0.11
+PepsiCo,6,0.11
+Guidepoint,6,0.11
+Cencora,6,0.11
+Sanofi India Ltd,6,0.11
+DrinkPrime,6,0.11
+Rentokil Initial,6,0.11
+People Prime Worldwide,6,0.11
+The Wells Fargo Foundation,6,0.11
+Kyndryl,6,0.11
+Kadel Labs,6,0.11
+Honeywell International Inc.,6,0.11
+Acme Services Private Limited,6,0.11
+WSP USA,6,0.11
+CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L,6,0.11
+Emerson Electric,6,0.11
+Control Risks,6,0.11
+Neolytix,6,0.11
+Advarra,6,0.11
+LTM,6,0.11
+Time Hack Consulting,6,0.11
+Stryker,6,0.11
+Levi Strauss & Co.,6,0.11
+Glance,6,0.11
+Emerson,6,0.11
+Quantiphi,6,0.11
+Indegene,6,0.11
+West Pharmaceutical Services,6,0.11
+OSTTRA,5,0.09
+Rockwell Automation,5,0.09
+Happiest Resume,5,0.09
+ProofHub,5,0.09
+ICE,5,0.09
+Franklin Templeton India,5,0.09
+Alstom,5,0.09
+MongoDB,5,0.09
+JumpCloud,5,0.09
+Axis Bank,5,0.09
+People First Consultants,5,0.09
+Roblox,5,0.09
+SBI Card,5,0.09
+"SolutionInn, US",5,0.09
+Fidelity International,5,0.09
+Staffnixcom,5,0.09
+Finkraft,5,0.09
+Jones Lang LaSalle (JLL),5,0.09
+Claight Corporation Expert Market Research,5,0.09
+EVERSANA,5,0.09
+Merck,5,0.09
+healthcare,5,0.09
+Nab,5,0.09
+Peroptyx,5,0.09
+Onclusive,5,0.09
+Cisco,5,0.09
+Google,5,0.09
+Vanguard Careers,5,0.09
+Trimont Services India Pvt Ltd,5,0.09
+Vertiv,5,0.09
+CWAN,5,0.09
+Redwood Software,5,0.09
+kenvue,5,0.09
+travelhrportal,5,0.09
+Unison Group,5,0.09
+Mercor,5,0.09
+Eastman,5,0.09
+Payoneer,5,0.09
+cba,5,0.09
+Vichara Technologies,5,0.09
+NucleusTeq,5,0.09
+telus digital,5,0.09
+Anaplan,5,0.09
+CGI,5,0.09
+Aliqan Services,5,0.09
+ICF,5,0.09
+MUFG Pension & Market Services,5,0.09
+Nubra,5,0.09
+GCC India,5,0.09
+Hunarstreet Technologies Pvt Ltd,5,0.09
+Criteo,5,0.09
+Invesco,5,0.09
+Wowjobs,5,0.09
+issgovernance,4,0.07
+SLB,4,0.07
+theapexgroup,4,0.07
+Softbiz Solutions,4,0.07
+ORBIT & SKYLINE,4,0.07
+UnitedHealth Group,4,0.07
+Gartner,4,0.07
+Equifax,4,0.07
+American Express TRS,4,0.07
+Jefferies,4,0.07
+GLOBALFOUNDRIES,4,0.07
+DATAECONOMY,4,0.07
+Tiger Analytics,4,0.07
+bof careers,4,0.07
+Columbia sportswear Company,4,0.07
+Hevo Data,4,0.07
+Salesforce,4,0.07
+Talent HR Networks Private Limited,4,0.07
+TTEC India Customer Solutions Private Limited,4,0.07
+Delta Capita,4,0.07
+Milliman,4,0.07
+Appian,4,0.07
+Happiest Minds Technologies,4,0.07
+Apex Group,4,0.07
+AppsForBharat,4,0.07
+Insight Global,4,0.07
+jiostar,4,0.07
+icon,4,0.07
+Cognizant,4,0.07
+Sansera Engineering Limited,4,0.07
+delta technology hub,4,0.07
+NTT DATA North America,4,0.07
+NetApp Excellerator,4,0.07
+Ingram Micro,4,0.07
+Solenis,4,0.07
+Analog Devices,4,0.07
+TRG Screen,4,0.07
+Loyalty Juggernaut,4,0.07
+RECEX,4,0.07
+ecsme,4,0.07
+Coforge,4,0.07
+PwC Acceleration Center India,4,0.07
+Accenture India Private Limited,4,0.07
+Chevron,4,0.07
+"NTT America, Inc.",4,0.07
+Aeries Technology,4,0.07
+Arcadis,4,0.07
+Onemagnify,4,0.07
+TaskUs,4,0.07
+Intuit,4,0.07
+ADM,4,0.07
+GE Vernova,4,0.07
+Khan Academy,4,0.07
+Colruyt IT Consultancy India,4,0.07
+WSP in Africa,4,0.07
+Scan-IT,4,0.07
+SopraSteria1,4,0.07
+Sopra Steria,4,0.07
+flutterbe,4,0.07
+Ascensus,4,0.07
+Mancraft Consulting,4,0.07
+Havas,4,0.07
+Skillz,4,0.07
+RWS Group,4,0.07
+Consilio,4,0.07
+Bread Financial,4,0.07
+Hindustan Unilever Hul,4,0.07
+DAZN,4,0.07
+Binary Semantics Limited,4,0.07
+AmerisourceBergen,4,0.07
+IntegriChain,4,0.07
+Cyara,4,0.07
+Pure Storage,4,0.07
+agilent,4,0.07
+hl,4,0.07
+Arcana Analytics,4,0.07
+Teleperformance,4,0.07
+Finastra,4,0.07
+RSM,4,0.07
+Msd,4,0.07
+Portage Point Partners,4,0.07
+Vodafone,4,0.07
+Olive Green Consulting,4,0.07
+Apna,4,0.07
+Greif,4,0.07
+Capgemini,4,0.07
+citicclsa,4,0.07
+Brookfield,4,0.07
+JP Morgan Services India Pvt Ltd,4,0.07
+Eaton Corporation,4,0.07
+Eurofins,4,0.07
+United Airlines,3,0.05
+ConvaTec,3,0.05
+Jade Global,3,0.05
+Sandoz,3,0.05
+Regnology,3,0.05
+Cargill,3,0.05
+Avantor,3,0.05
+PricewaterhouseCoopers,3,0.05
+dunnhumby,3,0.05
+Avient,3,0.05
+Kotak Mahindra Bank,3,0.05
+TechnoGen,3,0.05
+TVS Credit Services,3,0.05
+Smartsheet,3,0.05
+Bajaj Finance,3,0.05
+Community Empowerment Lab,3,0.05
+Aurora Energy Research,3,0.05
+mdtkangaroo,3,0.05
+Flatirons Solutions,3,0.05
+Kayzen,3,0.05
+Travelex,3,0.05
+LRN Corporation,3,0.05
+worldwide,3,0.05
+Wissen Technology,3,0.05
+Flipkart,3,0.05
+Worldwide Clinical Trials,3,0.05
+RZR Global Inc.,3,0.05
+Nouryon,3,0.05
+The Nielsen Company,3,0.05
+Commonwealth Bank of Australia,3,0.05
+Zensar Technologies,3,0.05
+Aiviq - UK,3,0.05
+NetWeb Software,3,0.05
+Renaissance Academy of Wisdom Private Limited,3,0.05
+Bosch Group,3,0.05
+Randstad India,3,0.05
+Razorpay,3,0.05
+Point72 Asset Management,3,0.05
+Wipro,3,0.05
+XPO,3,0.05
+Early Career,3,0.05
+fil,3,0.05
+protiviti india,3,0.05
+Lowes Services India Private limited,3,0.05
+Nium,3,0.05
+Accionlabs,3,0.05
+ZeMoSo Technologies,3,0.05
+MillerKnoll,3,0.05
+Ather Energy,3,0.05
+Modernizing Medicine,3,0.05
+Target,3,0.05
+ADCI - Karnataka - A66,3,0.05
+Wabtec,3,0.05
+Lam Research,3,0.05
+Amazon Wood,3,0.05
+Axtria India Private Limited,3,0.05
+Regal Rexnord,3,0.05
+Fidelity National Information Services,3,0.05
+Ghr,3,0.05
+Micron Technology,3,0.05
+Globalfoundries Engineering Private Limited,3,0.05
+Ralph Lauren,3,0.05
+Alegeus,3,0.05
+Aon,3,0.05
+Abacus Service,3,0.05
+Ameriprise,3,0.05
+Broadridge,3,0.05
+Tradeweb,3,0.05
+Empower India,3,0.05
+Babcock Power APAC Pvt. Ltd.,3,0.05
+Viavi Solutions,3,0.05
+Ubisoft,3,0.05
+Sia,3,0.05
+Kimberly-Clark,3,0.05
+Sia Partners,3,0.05
+TE Connectivity,3,0.05
+Myntra,3,0.05
+Alstom Grid,3,0.05
+AMETEK,3,0.05
+Fiserv,3,0.05
+Labcorp,3,0.05
+vwr,3,0.05
+Amex,3,0.05
+Sonata Software,3,0.05
+Tata Capital,3,0.05
+Mercer,3,0.05
+TELUS Digital AI Data Solutions,3,0.05
+clarioclinical,3,0.05
+IRIS software,3,0.05
+Qnity,3,0.05
+Sanofi Group,3,0.05
+Tekion,3,0.05
+CSB Bank,3,0.05
+Precision AQ,3,0.05
+NPS Prism,3,0.05
+Bain Company India Pvt. Ltd.,3,0.05
+Oliver Wyman,3,0.05
+Techwave,3,0.05
+Arrow,3,0.05
+Netomi,3,0.05
+Worldpay,3,0.05
+Michelin,3,0.05
+Aditi Tech Consulting Private Limited,3,0.05
+Kamlax Global Technologies Sdn Bhd,3,0.05
+wsp in india,3,0.05
+RentoMojo,3,0.05
+Risk Resources India,3,0.05
+TalentRouters Private Limited,3,0.05
+Insurity,3,0.05
+"Connor, Clark & Lunn Financial Group Ltd.",3,0.05
+Priceline,3,0.05
+WORK ASSIST,3,0.05
+Clearwater Analytics,3,0.05
+Multitude,3,0.05
+Ample,3,0.05
+Veralto,3,0.05
+D. E. Shaw India Private Limited,3,0.05
+YO AI Labs,3,0.05
+Swaniti Initiative,3,0.05
+Taylor and Francis,3,0.05
+Kissht,3,0.05
+BSR & Co,3,0.05
+Security and Intelligence Services,3,0.05
+trafigura,3,0.05
+russell,3,0.05
+Piramal Pharma,3,0.05
+Arcadia,3,0.05
+Tribute Technology,3,0.05
+Smart Soc Solutions,3,0.05
+Avnet,3,0.05
+In Touch,3,0.05
+InTouch CX,3,0.05
+Post A Resume,3,0.05
+MUFG Global Service (MGS),3,0.05
+Cubist Systematic Strategies,3,0.05
+Eclat Health Solutions,3,0.05
+Bradsol,3,0.05
+SLB PR,3,0.05
+Riveron,3,0.05
+IQ-EQ,3,0.05
+Uber,3,0.05
+Easemytrip com,3,0.05
+soul ai,3,0.05
+NERA Economic Consulting,3,0.05
+ncratleos,3,0.05
+WTW,3,0.05
+MiraTech,3,0.05
+Flexing It,3,0.05
+Flare Capital Partners,3,0.05
+Wroots Global,3,0.05
+TJX,3,0.05
+2028 Takeda Innovations India,3,0.05
+Hyster-Yale Group,3,0.05
+Ford Motor,3,0.05
+KLDiscovery,3,0.05
+ICG Medical,3,0.05
+Vistex,3,0.05
+dbs,3,0.05
+Genl Mills India Priv,3,0.05
+Owens & Minor,3,0.05
+Prudential,3,0.05
+Zelis,3,0.05
+integrichain1,2,0.04
+fnz,2,0.04
+Cube,2,0.04
+Informica Solutions,2,0.04
+Kamakhya Analytics Private Limited,2,0.04
+Innova ESI,2,0.04
+SentinelOne,2,0.04
+Fivetran,2,0.04
+Computacenter,2,0.04
+Jetking Technologies Private Limited,2,0.04
+ProArch,2,0.04
+Bureau Veritas,2,0.04
+Fireblaze AI School,2,0.04
+Travelwings,2,0.04
+Jabil,2,0.04
+Glencore,2,0.04
+LaunchDarkly,2,0.04
+Micron,2,0.04
+DNEG,2,0.04
+The Hackett Group,2,0.04
+EXC Managed Services,2,0.04
+HCL Technologies Limited,2,0.04
+Clarivate Analytics,2,0.04
+cryptochakra,2,0.04
+ISS,2,0.04
+Tribeca Venture Partners,2,0.04
+Align Technology,2,0.04
+Veeva Systems,2,0.04
+Kshema General Insurance,2,0.04
+Perceptive Analytics,2,0.04
+Experian,2,0.04
+Arting Digital,2,0.04
+F5 Networks,2,0.04
+Fastly,2,0.04
+DWS,2,0.04
+Ernst & Young LLP ( EY India ),2,0.04
+DTCC,2,0.04
+TJX India,2,0.04
+DC Consultants,2,0.04
+Adobe,2,0.04
+Fictiv,2,0.04
+Wesco,2,0.04
+Roche Diagnostics India Pvt Ltd,2,0.04
+Niftel Communication,2,0.04
+Pi Data Centers,2,0.04
+Clinton Health Access Initiative,2,0.04
+FairMoney,2,0.04
+Dynata,2,0.04
+Glowtouch Technologies Private Limited,2,0.04
+Photon,2,0.04
+Spectrum Consultants,2,0.04
+Renesas Electronics,2,0.04
+aaa global,2,0.04
+Telus International Ai Inc,2,0.04
+deccan ai experts,2,0.04
+Stryde Consulting Services,2,0.04
+Pearce Services Global (PSG),2,0.04
+Cigna,2,0.04
+Jobskey Consultancy,2,0.04
+DoorDash India,2,0.04
+FamPay,2,0.04
+Aditya Birla Group,2,0.04
+Turing,2,0.04
+Sutherland,2,0.04
+Target Corporation India Pvt Ltd,2,0.04
+MNC JOBS INFO,2,0.04
+GSK,2,0.04
+Currenex State Street Trust Company,2,0.04
+Digifine Academy LLP,2,0.04
+Kuehne + Nagel Pte Ltd,2,0.04
+Seternity Solutions,2,0.04
+S&P Global Market Intelligence,2,0.04
+trinitylifesciences,2,0.04
+3M,2,0.04
+mobility,2,0.04
+Baxter International,2,0.04
+Check Point Software Technologies,2,0.04
+Talisman HR Solutions,2,0.04
+Sole Point,2,0.04
+ADP Private Limited,2,0.04
+Tide,2,0.04
+Cars24,2,0.04
+Eli Lilly,2,0.04
+BNB Land Consultancy,2,0.04
+Shuru Technologies Private Limited,2,0.04
+Russell Investments,2,0.04
+Nalco Water,2,0.04
+SYSTRA,2,0.04
+Fortrea,2,0.04
+AQR,2,0.04
+Precision for Medicine,2,0.04
+Wk,2,0.04
+Edwards Lifesciences,2,0.04
+hysteryale,2,0.04
+pinebridge,2,0.04
+Game District,2,0.04
+Rehlko,2,0.04
+Valeo,2,0.04
+Travel Leaders Group,2,0.04
+Amtech Software,2,0.04
+Episode Six US,2,0.04
+Episode Six,2,0.04
+Baxter,2,0.04
+UKG,2,0.04
+AKMV Consultants,2,0.04
+Wadhwani Foundation,2,0.04
+insightalpha,2,0.04
+Rezo.ai,2,0.04
+paytmpayments,2,0.04
+Skeps,2,0.04
+Capillary Technologies,2,0.04
+"Nasdaq: Stock Market, Data Updates, Reports & News",2,0.04
+Informa Group,2,0.04
+target.com,2,0.04
+Walmart Global Tech India,2,0.04
+Campus Management,2,0.04
+Instawork,2,0.04
+Zf Friedrich,2,0.04
+Purview India Consulting And Services Llp,2,0.04
+NextPower Capital,2,0.04
+Marriott Tech Accelerator,2,0.04
+EquiLend,2,0.04
+ada,2,0.04
+KPIT Technologies Limited,2,0.04
+Informa Group Plc,2,0.04
+DP World,2,0.04
+NKT,2,0.04
+talentgigs,2,0.04
+Kairos Technologies Private Limited,2,0.04
+Tanla Platforms,2,0.04
+Navan,2,0.04
+Zafin,2,0.04
+Chubb,2,0.04
+Alpha Sense,2,0.04
+AlphaSense India,2,0.04
+Twilio,2,0.04
+Nordex Group,2,0.04
+Quess,2,0.04
+ASSPL - Karnataka - B56,2,0.04
+lilly,2,0.04
+Sage,2,0.04
+Macquarie Group,2,0.04
+StatusNeo,2,0.04
+Rockwell Automation Singapore,2,0.04
+Infinit-O,2,0.04
+Egon Zehnder,2,0.04
+Revvity,2,0.04
+Cotiviti,2,0.04
+McKinsey & Company,2,0.04
+Haleon,2,0.04
+saison,2,0.04
+Dr Reddy's Laboratories Limited,2,0.04
+Advanced Energy,2,0.04
+ITT Inc.,2,0.04
+Team Geek Solutions,2,0.04
+Arcana,2,0.04
+Forma.ai,2,0.04
+Notion Online Solutions Private Limited,2,0.04
+ScaleneWorks,2,0.04
+WebMD,2,0.04
+Jaipuria Institute of Management,2,0.04
+KPMG Assurance and Consulting Services LLP,2,0.04
+Harsco India Private Limited,2,0.04
+Phenom People,2,0.04
+randstad enterprise,2,0.04
+Skan AI,2,0.04
+the future university,2,0.04
+Spectral Consultants,2,0.04
+Pinkerton,2,0.04
+skillfied mentor jobs,2,0.04
+ADCI - BLR 14 SEZ - F07,2,0.04
+Two95 International Inc.,2,0.04
+HEXAWARE,2,0.04
+LexisNexis Risk Solutions,2,0.04
+Health Catalyst,2,0.04
+Equitas Small Finance Bank,2,0.04
+Nextpower,2,0.04
+Kirtane And Pandit LLP,2,0.04
+Etech Global Services,2,0.04
+FactSet Systems India Private Limited,2,0.04
+SailPoint Technologies,2,0.04
+BUSINESSNEXT,2,0.04
+Mspire Ventures,2,0.04
+MRI,2,0.04
+Alembic Pharmaceuticals,2,0.04
+Olx India,2,0.04
+SHRI LAKSHMI STEEL SUPPLIERS,2,0.04
+standard chartered india,2,0.04
+Schneider Electric,2,0.04
+Msi Services,2,0.04
+RED Global,2,0.04
+Burns & McDonnell,2,0.04
+Cornerstone OnDemand,2,0.04
+Conduent,2,0.04
+Goodyear,2,0.04
+Ebizon Net Info,2,0.04
+alliancedata,2,0.04
+Momentive,2,0.04
+PulsePoint,2,0.04
+Proof of Skill,2,0.04
+First Advantage,2,0.04
+Flexera Software,2,0.04
+Oaktree Capital Management,2,0.04
+eBay,2,0.04
+Astellas Pharma,2,0.04
+Tech Smcsquared Gcc,2,0.04
+Boston Consulting Group,2,0.04
+zolve,2,0.04
+Protolabs,2,0.04
+Evalueserve.com Private Limited,2,0.04
+Collinson Group,2,0.04
+Cummins India,2,0.04
+Prgx India,2,0.04
+Vois,2,0.04
+nowverticalgroup,2,0.04
+Nielsen,2,0.04
+PrismHR,2,0.04
+Techcarrot,2,0.04
+Group Bayport,2,0.04
+Booking Holdings,2,0.04
+Deloitte,2,0.04
+LSEG,2,0.04
+Snapmint,2,0.04
+Moonfrog Labs,2,0.04
+Johnson Controls,2,0.04
+DXC Technology,2,0.04
+Virtusa,2,0.04
+WeCredit,2,0.04
+Incanus Technologies Private Limited,2,0.04
+Guardant Health,2,0.04
+AGCO,2,0.04
+Autodesk,2,0.04
+SPX FLOW,2,0.04
+SWISS RE,2,0.04
+Allegion,2,0.04
+Eli Lilly And Company,2,0.04
+Fam,2,0.04
+Mindteck Limited,2,0.04
+Phenom,2,0.04
+Indus Ind Bank,2,0.04
+Chase Bank,2,0.04
+IDFC,2,0.04
+NEC Software Solutions,2,0.04
+sikaag,2,0.04
+ProcDNA,2,0.04
+Kotak,2,0.04
+metromakro,2,0.04
+FIS Global,2,0.04
+Diebold Nixdorf,2,0.04
+Diebold,2,0.04
+"milestone technologies, inc.",2,0.04
+TP Conseil,2,0.04
+Crisil,2,0.04
+armaninollp,2,0.04
+ETHOS,2,0.04
+Pocket FM,2,0.04
+Freshworks,2,0.04
+Michael Page,2,0.04
+Electronic Arts,2,0.04
+Expertshub.ai,2,0.04
+Flextronics International,2,0.04
+Bill Gosling,2,0.04
+Standard Chartered Bank,2,0.04
+AVEVA,2,0.04
+"Acara Solutions, Inc.",2,0.04
+Training Basket,2,0.04
+astreya,2,0.04
+Vanguard,2,0.04
+cubic,2,0.04
+Sensor Tower,2,0.04
+Bnp Paribas Bank,2,0.04
+Delta Air Lines,2,0.04
+Adani Group,2,0.04
+Stantec,2,0.04
+Rippling,2,0.04
+collabrix inc.,2,0.04
+VT Netzwelt,2,0.04
+Lloyd's List Intelligence,2,0.04
+Purplle.com,2,0.04
+Hyster-Yale Materials Handling,2,0.04
+Square Yards,2,0.04
+Kraft Heinz India Pvt Ltd,2,0.04
+MUTHOOT PAPPACHAN TECHNOLOGIES LIMITED,2,0.04
+Optum India,2,0.04
+ServiceChannel,2,0.04
+Graviton Research Capital LLP,2,0.04
+emagine,2,0.04
+emagine Polska,2,0.04
+Henkel,2,0.04
+GladOwl,2,0.04
+DriveX,2,0.04
+Amazon Music,2,0.04
+Qualifacts,2,0.04
+Oceaneering,2,0.04
+Coupang Internal,2,0.04
+Stillfront Group,2,0.04
+Zensar,2,0.04
+Cloud Partner Technologies,2,0.04
+Mashreq,2,0.04
+Atkinsr Alis,2,0.04
+DEUTSCHE TELEKOM DIGITAL LABS PRIVATE LIMITED,2,0.04
+Idyllic Services Pvt Ltd,2,0.04
+Western Digital,2,0.04
+Intuitive,2,0.04
+Vrinda International,2,0.04
+Azira,2,0.04
+DBS Bank,2,0.04
+Potentiam,2,0.04
+Fresenius Medical Care,2,0.04
+StockX,2,0.04
+MMS,2,0.04
+SOURCBOX SOLUTION,2,0.04
+Signify,2,0.04
+schreiberfoods,2,0.04
+Logitech,2,0.04
+HSBC,2,0.04
+Moodys Analytics,2,0.04
+eFinancialCareers,2,0.04
+Ford,2,0.04
+Bluevine India,2,0.04
+Glean,2,0.04
+zageno,2,0.04
+Rolls-Royce,2,0.04
+Nutanix,2,0.04
+TEOCO,2,0.04
+Showpad,2,0.04
+Hilti,2,0.04
+HighLevel,2,0.04
+Concentrix,2,0.04
+EY Studio+ Nederland,2,0.04
+FlexBoard,2,0.04
+IQVIA,2,0.04
+Gunnebo Entrance Control,2,0.04
+Marcura,2,0.04
+IIDE,2,0.04
+Umberto Ceramics International Private Limited,2,0.04
+Mondelēz International,2,0.04
+Johnson & Johnson MedTech,2,0.04
+Peak Hire Solutions,2,0.04
+We Search,2,0.04
+travclan,2,0.04
+ms,2,0.04
+Smith+Nephew,2,0.04
+tsys,2,0.04
+Schlumberger,2,0.04
+Arminus,2,0.04
+TechVedika,2,0.04
+Ventra Health,2,0.04
+Orange,2,0.04
+Everpure,2,0.04
+Esyasoft,2,0.04
+Mastercard US,2,0.04
+Financial Services,2,0.04
+Wells Fargo Bank,2,0.04
+KDK Software,1,0.02
+EnglishBhashi,1,0.02
+Coinbase,1,0.02
+Vikash Technologies,1,0.02
+remote zest jobs,1,0.02
+ODH DEVELOPERS PRIVATE LIMITED,1,0.02
+FW FUTURESWINGS PRODUCTS and SERVICES OPC PRIVATE LIMITED,1,0.02
+Empower Retirement,1,0.02
+Eli Lilly Services India,1,0.02
+Parker Group,1,0.02
+Talent Bridge HR Consultancy Dubai,1,0.02
+Madison Logic,1,0.02
+Apollo Global,1,0.02
+Woodward Governor,1,0.02
+FMC Corporation,1,0.02
+qualys,1,0.02
+Veradigm,1,0.02
+Franklin Templeton International Services (India),1,0.02
+Garden City Games India Pvt Ltd,1,0.02
+PEOPLEOCITY LLP,1,0.02
+USP,1,0.02
+Carestream,1,0.02
+Dream Communication System LLC,1,0.02
+Genetic Callnet,1,0.02
+Cyncly,1,0.02
+Medinex Workforce,1,0.02
+Placemein Hr solutions,1,0.02
+Decisions,1,0.02
+Digital ROI,1,0.02
+ION Group,1,0.02
+Bloom Energy,1,0.02
+ixigo,1,0.02
+Drip Capital,1,0.02
+ExxonMobil India Careers,1,0.02
+TJX Companies,1,0.02
+Kemin,1,0.02
+Jinvani Channel,1,0.02
+HTCL Technologies,1,0.02
+WebBee Global,1,0.02
+Experity,1,0.02
+i-zest Global,1,0.02
+OZI TECHNOLOGIES PRIVATE LIMITED,1,0.02
+American Express(India)private limited,1,0.02
+Align Knowledge Centre Pvt. Ltd.,1,0.02
+APEX I SOFT TECHNOLOGIES PRIVATE LIMITED,1,0.02
+Antal Internationall,1,0.02
+XPO Logistics,1,0.02
+DeepThought CultureTech Ventures Private Limited,1,0.02
+Prolifics Corporation Private Limited,1,0.02
+Landor,1,0.02
+TIN Capital,1,0.02
+lgads,1,0.02
+1000xdev,1,0.02
+Empower Professionals Incorporation - Talent & IT Services,1,0.02
+Hexaware Technologies,1,0.02
+Headout LI,1,0.02
+HackerRank Careers,1,0.02
+EMPOWER GLOBAL BUSINESS SERVICES INDIA,1,0.02
+Hyatt,1,0.02
+Speedinvest,1,0.02
+Corporate Website of Orange,1,0.02
+Veraj Data Mind Solutions,1,0.02
+The Hartford,1,0.02
+Rieter,1,0.02
+Myraid Media,1,0.02
+brillio-2,1,0.02
+singlebuoy,1,0.02
+Expian Technologies Pvt Ltd,1,0.02
+Sureminds Solutions Pvt. Ltd.,1,0.02
+Innovexis,1,0.02
+slice,1,0.02
+StoneX,1,0.02
+Sense7ai Data Solution Pvt Ltd,1,0.02
+Seco Tools,1,0.02
+Flosum,1,0.02
+Skylink Fibernet,1,0.02
+Stutzen Corporates,1,0.02
+Enfinity Global,1,0.02
+Exly,1,0.02
+Xapads,1,0.02
+Datavail Infotech,1,0.02
+ExxonMobil,1,0.02
+HyperVerge,1,0.02
+ThoughtFocus,1,0.02
+Sugar.fit,1,0.02
+aditi india,1,0.02
+Perficient,1,0.02
+Care Access,1,0.02
+Photon Interactive UK Limited,1,0.02
+Numerix,1,0.02
+Elf Beauty,1,0.02
+Nextloop Technologies,1,0.02
+ENABLE DATA TECHNOLOGIES PRIVATE LIMITED,1,0.02
+LG Ad Solutions,1,0.02
+Kaseya Careers,1,0.02
+Airbus,1,0.02
+Yourtribe,1,0.02
+Smiths Group,1,0.02
+Mott Macdonald,1,0.02
+Everest Technologies,1,0.02
+American Express 1,1,0.02
+Artefact,1,0.02
+ShyftLabs,1,0.02
+Inizio,1,0.02
+cambridgetechnology,1,0.02
+Akana Services,1,0.02
+Genpact India,1,0.02
+TalentNeuron,1,0.02
+Strategic HR Solutions,1,0.02
+irco,1,0.02
+Coupand,1,0.02
+GE HealthCare,1,0.02
+Supertails,1,0.02
+AdvaRisk,1,0.02
+Xohani Solutions Private Limited,1,0.02
+University Living,1,0.02
+Techerudite,1,0.02
+anthology inc,1,0.02
+stonex group inc.,1,0.02
+McAfee,1,0.02
+izmo ltd,1,0.02
+Smart Working,1,0.02
+T D Newton & Associates,1,0.02
+Simply Vyapar Apps,1,0.02
+Jar,1,0.02
+blinkit,1,0.02
+"digital harbor, inc.",1,0.02
+Innover Digital,1,0.02
+Whatfix,1,0.02
+Dozee,1,0.02
+Unilever,1,0.02
+JRD SYSTEMS,1,0.02
+RAAPID INC,1,0.02
+Micron Technology Operations India Llp,1,0.02
+CDK Global India Pvt Ltd,1,0.02
+Nextracker Solar,1,0.02
+Cynet Systems Private Limited,1,0.02
+Arihant Publications,1,0.02
+FourthPointer Services Pvt. Ltd.,1,0.02
+HR Hai,1,0.02
+TopGear Consultants Pvt Ltd,1,0.02
+GetHyr,1,0.02
+RBHU ETG Private Limited,1,0.02
+FIS,1,0.02
+Squareroot Consulting Pvt Ltd,1,0.02
+vidpro consultancy services,1,0.02
+Makemytrip.Com,1,0.02
+Lokal,1,0.02
+Digit Insurance,1,0.02
+LivSpace,1,0.02
+Conneqt Business Solutions Limited,1,0.02
+Euromonitor International,1,0.02
+appbroda,1,0.02
+ARTECH INFOSYSTEMS PRIVATE LIMITED,1,0.02
+absolute talent pvt ltd,1,0.02
+BrandSafway,1,0.02
+ICON plc,1,0.02
+Quickbase,1,0.02
+Jupiter,1,0.02
+Xoxoday,1,0.02
+DriveX Technologies,1,0.02
+gh,1,0.02
+more retail private limited,1,0.02
+Give,1,0.02
+ZOCAI,1,0.02
+tamasha.live,1,0.02
+HireRight,1,0.02
+M. S. Ramaiah University of Applied Sciences,1,0.02
+Netradyne,1,0.02
+Blue Yonder,1,0.02
+cnx,1,0.02
+connorgp,1,0.02
+onetp,1,0.02
+Tekwissen Software Private Limited,1,0.02
+pixfirst,1,0.02
+Bazaarvoice,1,0.02
+ANZ Securities,1,0.02
+Infineon Technologies,1,0.02
+artech l.l.c.,1,0.02
+Janes,1,0.02
+Lifesight,1,0.02
+ferguson gcc,1,0.02
+CrimsonLogic,1,0.02
+acuity analytics,1,0.02
+Decathlon,1,0.02
+NNE,1,0.02
+Cisco DevNet,1,0.02
+Navi,1,0.02
+Lonza,1,0.02
+Oshkosh,1,0.02
+genesys,1,0.02
+Likewize,1,0.02
+evolent,1,0.02
+WCKD RZR,1,0.02
+storytv app (by eloelo group),1,0.02
+NeoDove Telecalling CRM,1,0.02
+Elearningforce ANZ,1,0.02
+Ametek Instruments India,1,0.02
+Apex 2000,1,0.02
+American Express Global Business Travel,1,0.02
+Mphasis,1,0.02
+Colan Infotech,1,0.02
+Axiom,1,0.02
+Whisk Software Private Limited,1,0.02
+Beiersdorf,1,0.02
+Vistance Networks,1,0.02
+People Inc,1,0.02
+FNZ Group,1,0.02
+Academic Press Elsevier,1,0.02
+Dream11,1,0.02
+Intercontinental Exchange,1,0.02
+Keka HR,1,0.02
+Topcoder,1,0.02
+Havells,1,0.02
+ADCI HYD 13 SEZ,1,0.02
+MM Staffing & Career Consultants,1,0.02
+Vinayak Outsourcing Works,1,0.02
+3G HR Services,1,0.02
+Criteo Technology,1,0.02
+Blue Matter,1,0.02
+EAX Media,1,0.02
+Credeau,1,0.02
+MyCareernet Hiring Now,1,0.02
+cultus education & technology services,1,0.02
+AngelONE,1,0.02
+BNP Paribas,1,0.02
+Mahindra Satyam,1,0.02
+Vedantu,1,0.02
+"tyfone, inc.",1,0.02
+Pine Labs,1,0.02
+Dyson,1,0.02
+Cisco Home,1,0.02
+DealerSocket,1,0.02
+Oceaneering International,1,0.02
+Model N,1,0.02
+Dautom,1,0.02
+MCTC,1,0.02
+GIA Services,1,0.02
+Colliers,1,0.02
+Sophos,1,0.02
+Carelon Global Solutions,1,0.02
+NICE,1,0.02
+BMC,1,0.02
+TATA Technologies,1,0.02
+MindTickle,1,0.02
+The Hershey Company,1,0.02
+Grant Thornton,1,0.02
+mcdonald's global office in india,1,0.02
+AirAdvisor,1,0.02
+a1apps,1,0.02
+embrace software inc,1,0.02
+Shuru,1,0.02
+Acquarius Capstorm Limited,1,0.02
+Welo Data,1,0.02
+PNB MetLife,1,0.02
+Eram Talent,1,0.02
+NCR Vyoix,1,0.02
+trueblue india,1,0.02
+getege edtech pvt. ltd.,1,0.02
+Bsi Financial Services,1,0.02
+staples india,1,0.02
+SitusAMC,1,0.02
+Hogarth World Wide,1,0.02
+chola securities,1,0.02
+MG India,1,0.02
+Pivotree,1,0.02
+CEVA Logistics,1,0.02
+Foxtale,1,0.02
+Fujitsu,1,0.02
+ZS,1,0.02
+cg-vak software & exports ltd.,1,0.02
+eClerx Investments Ltd,1,0.02
+Cybage Software,1,0.02
+pro5.ai,1,0.02
+Uplers,1,0.02
+prime corporate llp,1,0.02
+it infra byte,1,0.02
+Delivery Hero,1,0.02
+ancaster capital,1,0.02
+skoollage,1,0.02
+DHL Supply Chain,1,0.02
+Quantum It Solution,1,0.02
+aivantage,1,0.02
+Cbre,1,0.02
+RSM US LLP,1,0.02
+TP Systems,1,0.02
+jakson group,1,0.02
+Endava,1,0.02
+Air India Express,1,0.02
+Robert Bosch,1,0.02
+Comply,1,0.02
+Cavitak Marketing Pvt Ltd,1,0.02
+Vested Finance,1,0.02
+baazar style retail ltd.,1,0.02
+bridgeway power,1,0.02
+Airtel Prepaid,1,0.02
+Airtel Payments Bank,1,0.02
+Delhivery,1,0.02
+"Ameriprise Financial Services, LLC",1,0.02
+Circle K,1,0.02
+Bharti Airtel,1,0.02
+Technip Energies India Limited,1,0.02
+threatxintel,1,0.02
+arcelormittal digital consulting,1,0.02
+Deltek,1,0.02
+Mastek,1,0.02
+fin lad investments,1,0.02
+Vishaka Vels Technologies,1,0.02
+Mako IT Lab,1,0.02
+Med-Metrix,1,0.02
+nuvama group,1,0.02
+Pilgrim,1,0.02
+amaha,1,0.02
+Schbang,1,0.02
+AAA Global Tech,1,0.02
+Connor Group,1,0.02
+ishan technologies,1,0.02
+ethans tech llp,1,0.02
+man truck & bus india pvt. ltd,1,0.02
+linkfields innovations (pty) ltd,1,0.02
+Kanerika Inc,1,0.02
+Miles Education,1,0.02
+menko services pvt ltd,1,0.02
+Orange Business Services,1,0.02
+Airtel Africa,1,0.02
+Yamaha Motor Solutions India,1,0.02
+Agiliad Technologies,1,0.02
+genrec.ai,1,0.02
+"iprime services pvt ltd , ncr india",1,0.02
+Zone IT Solutions,1,0.02
+oWow,1,0.02
+elements energy,1,0.02
+better,1,0.02
+IGT Solutions,1,0.02
+Urban Company,1,0.02
+Ornate TechnoServices Pvt. Ltd.,1,0.02
+Thoucentric,1,0.02
+Carlisle Companies,1,0.02
+prose on pixels,1,0.02
+Rotork,1,0.02
+pall corporation,1,0.02
+Tata AIA Life,1,0.02
+Nua,1,0.02
+agos aviation,1,0.02
+slb media,1,0.02
+TechnoServe,1,0.02
+Ss C Technologies,1,0.02
+sa.global,1,0.02
+Prescience Decision Solutions,1,0.02
+ROW SHARP team,1,0.02
+Allen Online,1,0.02
+nttlimited,1,0.02
+Cashfree Payments India,1,0.02
+Niit Technologies,1,0.02
+MiniMed,1,0.02
+GACS,1,0.02
+The Depository Trust & clearing Corporation,1,0.02
+Amazon Thunder,1,0.02
+Quality Thought Infosystems (India) Private Limited,1,0.02
+Signant Health,1,0.02
+Certara,1,0.02
+signode india limited,1,0.02
+WILLWARE TECHNOLOGIES PRIVATE LIMITED,1,0.02
+TalentOla,1,0.02
+Omnicorm Media Group,1,0.02
+diconium,1,0.02
+3m India,1,0.02
+Laundryheap,1,0.02
+Altera Semiconductor,1,0.02
+HARMAN International,1,0.02
+Squarepoint Capital,1,0.02
+Informa,1,0.02
+ascendion,1,0.02
+Zscaler,1,0.02
+Ti Steps,1,0.02
+remotestar-team,1,0.02
+Alcon Laboratories,1,0.02
+Marlabs,1,0.02
+Softtek,1,0.02
+Tredence Inc.,1,0.02
+Gameskraft,1,0.02
+"pretium enterprise services, india",1,0.02
+prosessed,1,0.02
+leaps by analyttica,1,0.02
+dodo payments,1,0.02
+KPI Partners,1,0.02
+Amazon Pay Private Limited - D32,1,0.02
+MUFG Americas,1,0.02
+Aptean,1,0.02
+NxtWave,1,0.02
+qx impact,1,0.02
+e-clide hse lms,1,0.02
+Endress+Hauser Group,1,0.02
+studyix,1,0.02
+Niveus Solutions,1,0.02
+Plootus,1,0.02
+Ascendeum,1,0.02
+TELUS,1,0.02
+Sleek,1,0.02
+Prodigal,1,0.02
+JFrog,1,0.02
+Evalueserve India,1,0.02
+ShareChat,1,0.02
+Recognized,1,0.02
+Applied Materials South East Asia Pte Ltd,1,0.02
+Silvermine Group,1,0.02
+Korn Ferry,1,0.02
+Trelleborg Sealing Solutions,1,0.02
+LinkedIn,1,0.02
+Experis IT Private Limited,1,0.02
+Savishty,1,0.02
+Unacademy,1,0.02
+Tokopedia,1,0.02
+NuBrakes,1,0.02
+Cognizant Softvision,1,0.02
+Blob Infotech Private Limited,1,0.02
+Shopflo,1,0.02
+DuPont,1,0.02
+fetchjobs.co,1,0.02
+talentgum,1,0.02
+skillzenloop,1,0.02
+Firstsource,1,0.02
+Arcgate,1,0.02
+tutoadda,1,0.02
+Health Atlast,1,0.02
+tekwissen india,1,0.02
+burgrill india,1,0.02
+Thryve Digital,1,0.02
+Pharmanovia,1,0.02
+webs x um,1,0.02
+HCA Healthcare Uk,1,0.02
+HealthEdge: Healthcare SaaS To Accelerate Digital Transformation,1,0.02
+Softobiz Technologies India,1,0.02
+midtown software,1,0.02
+bioxone biosciences,1,0.02
+namma yatri,1,0.02
+K2 Partnering Solutions,1,0.02
+enviropol engineers pvt. ltd.,1,0.02
+Policybazaar.Com,1,0.02
+Inspire Brands Hyderabad Support Center,1,0.02
+CIBC India,1,0.02
+ENH iSecure,1,0.02
+Trimont,1,0.02
+Alignity Solutions,1,0.02
+Car Next Door,1,0.02
+ttecdigital,1,0.02
+nationsbenefits,1,0.02
+GHX,1,0.02
+ttecjobs,1,0.02
+Important Company of the Sector,1,0.02
+Talent500,1,0.02
+Anicalls (Pty,1,0.02
+Oaktree,1,0.02
+ASSPL - Telangana,1,0.02
+Salesforce: The #1 AI CRM,1,0.02
+Goodyear Corporate,1,0.02
+Softobiz,1,0.02
+Frontline Managed Services,1,0.02
+Apps Associates,1,0.02
+sapphire software solutions inc,1,0.02
+neo skillz,1,0.02
+Niansec,1,0.02
+iConsultera,1,0.02
+zenithbyte,1,0.02
+acrotinel,1,0.02
+Assystems,1,0.02
+assystem,1,0.02
+Freyr Energy,1,0.02
+InvoiceCloud,1,0.02
+Kumaran Systems,1,0.02
+Aim Plus,1,0.02
+cieloprojects,1,0.02
+Interscripts,1,0.02
+ServiceNow,1,0.02
+accellor,1,0.02
+Talent Linked Consultancy,1,0.02
+Vanguard Technologies,1,0.02
+Mariosoft Technologies,1,0.02
+Invesco (india) Private Limited,1,0.02
+techcarrot FZ LLC,1,0.02
+Blend360 India,1,0.02
+Ericsson,1,0.02
+Algoworks,1,0.02
+Analytics Insight,1,0.02
+PerkinElmer,1,0.02
+Study In US,1,0.02
+pbpartners,1,0.02
+Zingbus,1,0.02
+AND Academy,1,0.02
+Zalaris,1,0.02
+rrd global delivery centers,1,0.02
+different hair pvt. ltd,1,0.02
+Chargeback Gurus,1,0.02
+Neon Digital Media,1,0.02
+FinServ Consulting,1,0.02
+The Depository Trust & Clearing Corporation (DTCC),1,0.02
+U.S. Pharmacopeial Convention,1,0.02
+Simform,1,0.02
+Wadhwani AI,1,0.02
+Impact Guru,1,0.02
+hackajob,1,0.02
+facctum,1,0.02
+intellistaff services pvt. ltd,1,0.02
+cliff it solutions inc.,1,0.02
+Interview Kickstart,1,0.02
+AQUILASYS CONSULTANCY PRIVATE LIMITED,1,0.02
+Lingaro Group,1,0.02
+enphase-energy,1,0.02
+Kinaxis,1,0.02
+Scopely,1,0.02
+Burson,1,0.02
+FT Partners,1,0.02
+Lloyds Bank,1,0.02
+parker,1,0.02
+Photon Group,1,0.02
+GoDaddy,1,0.02
+Black Box,1,0.02
+Landmark Group,1,0.02
+Moving Walls,1,0.02
+Five9,1,0.02
+Prominent Consultant,1,0.02
+Aligned Automation,1,0.02
+thinkwise consulting llp,1,0.02
+all european careers,1,0.02
+savii-2,1,0.02
+CoverGo,1,0.02
+bigsteptech,1,0.02
+Emirates NBD,1,0.02
+Kimoha Technologies,1,0.02
+datavinci analytics agency,1,0.02
+treebo hospitality ventures,1,0.02
+pacific consultancy services,1,0.02
+Navigator,1,0.02
+veltris,1,0.02
+Binated,1,0.02
+ven analytics pvt. ltd.,1,0.02
+NeenOpal Inc.,1,0.02
+optimspace.in,1,0.02
+Workafy,1,0.02
+Agilent Technologies,1,0.02
+TekFriday,1,0.02
+Inizio Ignite,1,0.02
+Putnam,1,0.02
+Comcast,1,0.02
+tekgenio,1,0.02
+Grainville India,1,0.02
+SunShell Power,1,0.02
+UCAM,1,0.02
+Vellko,1,0.02
+Aparajitha Corporate Services,1,0.02
+Dignity Aspire,1,0.02
+Beworld web services,1,0.02
+FULL Creative,1,0.02
+National Skill Development Corporation,1,0.02
+dun bradstreet,1,0.02
+Tsaaro,1,0.02
+Atlanta Systems,1,0.02
+LUXASIA,1,0.02
+Rhombus Power,1,0.02
+Apex Systems,1,0.02
+CleverInsight,1,0.02
+LatentView Analytics,1,0.02
+vrsamadhan,1,0.02
+Bahwan Cybertek,1,0.02
+Fashor,1,0.02
+WM,1,0.02
+Prudent Partners LLP,1,0.02
+atlys,1,0.02
+sgs,1,0.02
+Global Water Solutions,1,0.02
+ClearView Healthcare Partners,1,0.02
+Augusta HiTech,1,0.02
+Kaapro Management Solutions,1,0.02
+claritypay,1,0.02
+Interpath Advisory,1,0.02
+AuditorsDesk,1,0.02
+GEC Media Group,1,0.02
+Deutsche Borse,1,0.02
+Sun King,1,0.02
+Delta Exchange,1,0.02
+spreetail,1,0.02
+Blink Health,1,0.02
+JustAnswer,1,0.02
+Kard,1,0.02
+egnyte,1,0.02
+Just Global,1,0.02
+gohighlevel,1,0.02
+CC Staffing International,1,0.02
+Mrsool,1,0.02
+TransFi,1,0.02
+huptech hr solutions,1,0.02
+Indigo,1,0.02
+BIG Language Solutions,1,0.02
+Twimbit,1,0.02
+Tek Ninjas,1,0.02
+GroundTruth,1,0.02
+aimlay pvt ltd ( recruitment ),1,0.02
+PTC,1,0.02
+pw (physicswallah),1,0.02
+Creditas Solutions,1,0.02
+Smart Energy Water,1,0.02
+Noon,1,0.02
+Kroll Associates India Private Limited,1,0.02
+Skybound Wealth Management,1,0.02
+acs international india pvt. ltd. (acsii),1,0.02
+Cctech,1,0.02
+hilti technology solutions india,1,0.02
+BNY Mellon International Operations India Private Limited,1,0.02
+pluginlive,1,0.02
+DHL,1,0.02
+Taboola,1,0.02
+Reveleer,1,0.02
+sequoiaat,1,0.02
+Moniepoint,1,0.02
+GoMotive,1,0.02
+teikametrics,1,0.02
+Beyond,1,0.02
+EPAM Systems,1,0.02
+Sciative Solutions,1,0.02
+Olio Global AdTech LLP,1,0.02
+outsourced pro global,1,0.02
+Viaduct,1,0.02
+thinking it corp.,1,0.02
+Flexiple,1,0.02
+ishare inc.,1,0.02
+Ford Motor Company,1,0.02
+Tazapay,1,0.02
+Stryker India Private Limited,1,0.02
+Noblesoft Technologies Inc.,1,0.02
+augix system,1,0.02
+impetus career consultants,1,0.02
+RxMens,1,0.02
+Smilo,1,0.02
+Greenlight Planet,1,0.02
+Turing Jobs Feed,1,0.02
+Gallagher & Mohan,1,0.02
+Shell,1,0.02
+Scale IR,1,0.02
+Lifelancer,1,0.02
+Aplus Careers,1,0.02
+Flix,1,0.02
+Stage,1,0.02
+VaynerMedia,1,0.02
+Workfreaks Business Services Private Limited,1,0.02
+Climate Collective Foundation,1,0.02
+Ebizon,1,0.02
+SquadStack,1,0.02
+Franklin Electric,1,0.02
+TheHiveCareers,1,0.02
+Veersa Technologies,1,0.02
+Roundglass Wellbeing Pvt Ltd,1,0.02
+Mobolutions,1,0.02
+Aviotron Aerospace,1,0.02
+Zinnia - Employee Referral,1,0.02
+Zinnia,1,0.02
+Yum! Brands,1,0.02
+Daimler Truck North America,1,0.02
+HCL TechBee,1,0.02
+Indium,1,0.02
+goshies apparels private limited,1,0.02
+Technosport Canada,1,0.02
+FactSet,1,0.02
+SALt,1,0.02
+KMK Consulting Inc.,1,0.02
+bhionix.group,1,0.02
+intelo.ai,1,0.02
+angara ecommerce pvt. ltd.,1,0.02
+Sun Dew Solutions Private Limited,1,0.02
+Biz2x,1,0.02
+united airlines india knowledge center,1,0.02
+xylem learning,1,0.02
+pvar services,1,0.02
+AHEAD,1,0.02
+Cloudester Software LLP,1,0.02
+solguruz,1,0.02
+Wipaire,1,0.02
+ClickForge,1,0.02
+Ingersoll Rand Careers,1,0.02
+WNS Denali,1,0.02
+CodeChavo,1,0.02
+Spectral Consultants – Search & Recruitment firm,1,0.02
+HCLTech,1,0.02
+Times Internet,1,0.02
+Supermoney,1,0.02
+Nutrabay,1,0.02
+WNS Assistance,1,0.02
+Amazon Alliance,1,0.02
+Paradigm IT Group,1,0.02
+BCForward,1,0.02
+Benchmark IT Solutions,1,0.02
+Eaton Electrical,1,0.02
+PaisaSmart,1,0.02
+Spiralyze,1,0.02
+Kajaria Ceramics,1,0.02
+Interpath,1,0.02
+Yes Madam,1,0.02
+Flight Centre Travel Group,1,0.02
+paytm payment gateway,1,0.02
+ESR Healthcare,1,0.02
+apexx,1,0.02
+Groww,1,0.02
+AireSpring,1,0.02
+Addepar,1,0.02
+nxwave,1,0.02
+jellyfishcareers,1,0.02
+apto solutions - executive search & consultants,1,0.02
+NTT DATA Business Solutions North America,1,0.02
+2coms,1,0.02
+WPP Production,1,0.02
+Getinge,1,0.02
+covet it inc,1,0.02
+selections hr services private limited,1,0.02
+Avoma,1,0.02
+avalara apac,1,0.02
+Universal Education,1,0.02
+BMC Software,1,0.02
+GXO Logistics,1,0.02
+cyber success - leaders in technology training,1,0.02
+Outpost VFX,1,0.02
+Axis My India,1,0.02
+Qure.ai,1,0.02
+ReWise Analytics and Technologies,1,0.02
+Personiv,1,0.02
+Jarus Technologies India Private Limited,1,0.02
+modmed india,1,0.02
+flutter entertainment india,1,0.02
+MediaMint,1,0.02
+CoverStack Technologies,1,0.02
+Cibersites India,1,0.02
+KNYA,1,0.02
+Samsung India Software Operations,1,0.02
+Impetus Technologies,1,0.02
+Onward Technologies Limited,1,0.02
+sourcebae,1,0.02
+optimum solutions pte ltd,1,0.02
+Laksh Consultants,1,0.02
+nexionpro services,1,0.02
+CIRCOR,1,0.02
+Qube Research & Technologies,1,0.02
+LogicMonitor,1,0.02
+colliers1,1,0.02
+Edelweiss Global Markets,1,0.02
+MSCI Recruitment 2026 – Associate Software Engineer (AI & Python ...,1,0.02
+Arthan,1,0.02
+Legrand,1,0.02
+Legrand North America,1,0.02
+Finnovate,1,0.02
+Customized Energy Solutions,1,0.02
+tieto2,1,0.02
+"Intercontinental Exchange Holdings, Inc.",1,0.02
+Energy Exemplar,1,0.02
+Ubisoft India,1,0.02
+PURETECH CODEX,1,0.02
+2070health,1,0.02
+Omnicom Media,1,0.02
+WorldQuant,1,0.02
+Sika Group,1,0.02
+SVKM's Narsee Monjee Institute of Management Studies,1,0.02
+NMIMS,1,0.02
+NuageCX Consulting,1,0.02
+RoshanSpace,1,0.02
+Dolby,1,0.02
+codvo-team,1,0.02
+ubisoft2,1,0.02
+Vimson,1,0.02
+Frost & Sullivan,1,0.02
+The Citco Group Limited,1,0.02
+Citco,1,0.02
+NOV,1,0.02
+Syndigo,1,0.02
+people10,1,0.02
+Lead India,1,0.02
+opvia.in,1,0.02
+makunai global,1,0.02
+Veeva,1,0.02
+Amethyst Partners,1,0.02
+"h3 technologies, llc",1,0.02
+"inVentiv Health Clinical SRE, LLC",1,0.02
+Hilti India,1,0.02
+osel devices limited,1,0.02
+Argo Internet,1,0.02
+PlaySimple Games,1,0.02
+Corsearch,1,0.02
+flextrade,1,0.02
+Etraveli Group,1,0.02
+bolna,1,0.02
+Stillfront,1,0.02
+armstrongfluidtechnology,1,0.02
+Plat4mation,1,0.02
+zeta,1,0.02
+Cambium Networks,1,0.02
+supplywisdom,1,0.02
+Carmeuse,1,0.02
+ECI,1,0.02
+Nifty’s,1,0.02
+Karya,1,0.02
+Plum Benefits,1,0.02
+Infineon,1,0.02
+Lenskart.com,1,0.02
+clarisights,1,0.02
+Candor Health,1,0.02
+Avathon,1,0.02
+dexcarehealth,1,0.02
+Sandisk,1,0.02
+Herspiegel Consulting,1,0.02
+Reap,1,0.02
+linemate,1,0.02
+innodata india private limited,1,0.02
+iagami,1,0.02
+iamneo - An NIIT Venture,1,0.02
+Toppan Merrill,1,0.02
+AVI-SPL India,1,0.02
+HireMap,1,0.02
+caxton,1,0.02
+eProductivity Software,1,0.02
+securonix,1,0.02
+Alaan,1,0.02
+Take-Two Interactive,1,0.02
+Straive,1,0.02
+Point72,1,0.02
+Ola Electric,1,0.02
+Ignitarium,1,0.02
+Mathco Health Corporation,1,0.02
+recruitfy,1,0.02
+Fastline Recruitment Services,1,0.02
+derisk360,1,0.02
+BayOne Solutions,1,0.02
+WPP Media,1,0.02
+kaufmanrossin,1,0.02
+moonpay,1,0.02
+benchmarkgensuite,1,0.02
+Hilton,1,0.02
+eversana1,1,0.02
+TEMERL,1,0.02
+Elemica Solutions,1,0.02
+Ayr Energy,1,0.02
+Hypertech SA,1,0.02
+Vantiva,1,0.02
+Strada,1,0.02
+Petrofac,1,0.02
+Colgate-Palmolive Company,1,0.02
+Dell,1,0.02
+HackerRank,1,0.02
+Toast,1,0.02
+Garden City Games,1,0.02
+Lokal Entrepreneurs Empowerment,1,0.02
+Nestaway Technologies,1,0.02
+PhonePe,1,0.02
+flagright.com,1,0.02
+Coffeebeans Consulting,1,0.02
+A.P. Moller - Maersk,1,0.02
+Acesoft Labs India Private Limited,1,0.02
+ePS Software,1,0.02
+Thomson Reuters India Pvt Ltd,1,0.02
+SanDisk India Device Design Centre Pvt.Ltd,1,0.02
+NTT DATA Services,1,0.02
+iqvia india,1,0.02
+Teamware Solutions,1,0.02
+Diligent Corporation,1,0.02
+BPM,1,0.02
+MerQube,1,0.02
+ThoughtSpot,1,0.02
+Eurofins Scientific,1,0.02
+Coupang,1,0.02
+Orange Business,1,0.02
+Amazon India Limited,1,0.02
+Kaseya,1,0.02
+HOLOSTIK,1,0.02
+ISS STOXX,1,0.02
+Funding Societies | Modalku Group,1,0.02
+Talent Leads Consultants,1,0.02
+R-Insights Research Company,1,0.02
+eps (eproductivity software),1,0.02
+hyrezy tech solutions,1,0.02
+Loop,1,0.02
+Cashfree Payments,1,0.02
+Zepto,1,0.02
+Mopidy,1,0.02
+infovision inc.,1,0.02
+Infinite Computer Solutions,1,0.02
+Nasugroup,1,0.02
+cyberhaven,1,0.02
+Arcesium,1,0.02
+Proarch Technology Services,1,0.02
+Indus Towers,1,0.02
+ADCI HYD 13 SEZ - H84,1,0.02
+VXI Global Solutions,1,0.02
+TE Connectivity India Pvt Ltd,1,0.02
+Orcapod Consulting Services,1,0.02
+Thakral One,1,0.02
+MakeMyTrip,1,0.02
+"Annalect, Omnicom Media Group India Private Limited.",1,0.02
+Sprinklr India Private Limited,1,0.02
+NtrustLabs,1,0.02
+Zebulon Consulting,1,0.02
+Aecom India Pvt Ltd,1,0.02
+JOOLA,1,0.02
+CITIC,1,0.02
+Mind IT Systems,1,0.02
+Amazon Dev Center India - Hyderabad,1,0.02
+Warner Bros,1,0.02
+Adani,1,0.02
+Highrise Solutions LLP,1,0.02
+Career Creed HR Services,1,0.02
+Vedita Ventures,1,0.02
+Digital Twin,1,0.02
+Ralliant,1,0.02
+Branch Metrics,1,0.02
+75F,1,0.02
+Future Standard,1,0.02
+Stripe,1,0.02
+Flywire,1,0.02
+Elastic,1,0.02
+Amazon Dev Center India - Hyderabad - A85,1,0.02
+Vistex Career,1,0.02
+OnlineJobs.PH,1,0.02
+J&J Family of Companies,1,0.02
+Diversey,1,0.02
+Cubic Transportation Systems India Private Limited,1,0.02
+fractal,1,0.02
+sagility,1,0.02
+Guidewire,1,0.02
+AECOM,1,0.02
+Tarento,1,0.02
+"Black Duck Software, Inc.",1,0.02
+Officeworks,1,0.02
+MUFG Bank,1,0.02
+The Goodyear Tire & Rubber Company,1,0.02
+Kuehne+Nagel,1,0.02
+vantive,1,0.02
+AspenTech,1,0.02
+Trellix,1,0.02
+DoorDash,1,0.02
+IKA India,1,0.02
+Cytiva Life Science,1,0.02
+Amicus India,1,0.02
+Altera Corporation,1,0.02
+magnitudesoftware,1,0.02
+Alcon,1,0.02
+Iron Mountain,1,0.02
+Illumina,1,0.02
+lnw,1,0.02
+Zeiss,1,0.02
+Baker Tilly,1,0.02
+Alexion,1,0.02
+General Motors,1,0.02
+q2ebanking,1,0.02
+McKesson,1,0.02
+cotality,1,0.02
+Bodycraft,1,0.02
+Quicken,1,0.02
+Arrow Electronics,1,0.02
+Confluencr Global Influencer Marketing Agency,1,0.02
+Alcon Research,1,0.02
+Magna International,1,0.02
+Aptiv,1,0.02
+ah,1,0.02
+Zillow,1,0.02
+fluenceenergy,1,0.02
+o9solutions,1,0.02
+Tyson Foods,1,0.02
+ICON Clinical Research,1,0.02
+MUFG Global Service,1,0.02
+Columbia Sportswear,1,0.02
+ADCI - Karnataka,1,0.02
+ACKO,1,0.02
+Boomi,1,0.02
+Tradeweb Markets,1,0.02
+Multiplier Technologies,1,0.02
+Crowe,1,0.02
+altusgroup,1,0.02
+vxi,1,0.02
+pinnacle,1,0.02
+tibco,1,0.02
+Flexera,1,0.02
+PHINIA,1,0.02
+ig,1,0.02
+Finastra Technology,1,0.02
+Varthak Technologies,1,0.02
+Tracxn,1,0.02
+CIGNEX Technologies Private Limited,1,0.02
+DexCare,1,0.02
+TMF,1,0.02
+newperkinelmer,1,0.02
+blackbaud,1,0.02
+Chloe,1,0.02
+wf,1,0.02
+Corteva,1,0.02
+Western Union,1,0.02
+Ryan,1,0.02
+lbg,1,0.02
+spgi,1,0.02
+IRE,1,0.02
+corrohealth,1,0.02
+KBR,1,0.02
+pvh,1,0.02
+wiley,1,0.02
+elevancehealth,1,0.02
+Albemarle,1,0.02
+bsigroup,1,0.02
+lummustechnology,1,0.02
+Saks Global,1,0.02
+Synchrony Financial,1,0.02
+abinbev,1,0.02
+slihrms,1,0.02
+Expedia Group,1,0.02
+LiveRamp,1,0.02
+elemica,1,0.02
+Laminaar Aviation Infotech India,1,0.02
+Linxon,1,0.02
+Foundation SVKM,1,0.02
+MediaRadar,1,0.02
+Seeking Alpha,1,0.02
+Marsh McLennan,1,0.02
+remote next,1,0.02
+vacancy global pro,1,0.02
+Oddup,1,0.02
+InnovMetric Logiciels|Software,1,0.02
+SEI,1,0.02
+Cognex,1,0.02
+The Boeing Company,1,0.02
+MRI Software,1,0.02
+spencerstuart,1,0.02
+Southwest Airlines,1,0.02
+KLA,1,0.02
+Circle K Stores,1,0.02
+WM Global Technology Services India,1,0.02
+TATA AIG General Insurance Company,1,0.02
+Wolters Kluwer,1,0.02
+Tropical Animal Genetics Private Limited,1,0.02
+Akron Intel,1,0.02
+Welspun World,1,0.02
+Pinnacle Reliability India,1,0.02
+Circle,1,0.02
+TD Synnex,1,0.02
+Ouryahoo,1,0.02
+bf,1,0.02
+Credit Acceptance Careers,1,0.02
+pinnaclegroup,1,0.02
+Marmon Holdings,1,0.02
+erm,1,0.02
+aresmgmt,1,0.02
+communitybrands,1,0.02
+Plante Moran,1,0.02
+Nasdaq,1,0.02
+ATS,1,0.02
+Rehiko,1,0.02
+Synechron,1,0.02
+sulzer,1,0.02
+Pfizer,1,0.02
+Vanderlande Industries,1,0.02
+Sabre India,1,0.02
+ALFA LAVAL,1,0.02
+cochlear,1,0.02
+RemoteLegalStaff,1,0.02
+Amherst College,1,0.02
+Röhlig Blue Services India,1,0.02
+Mitsubishi UFJ Financial Group,1,0.02
+VerveLogic,1,0.02
+Hudson Data,1,0.02
+QAgile Services,1,0.02
+TekClan,1,0.02
+TSSConsultancyPvtLtd,1,0.02
+Headsup Corporation,1,0.02
+DS Group,1,0.02
+Inficore Soft,1,0.02
+Compunet Connections,1,0.02
+Pointo,1,0.02
+ZOCAAI Technologies Private Limited,1,0.02
+TYZER TECHNOLOGIES,1,0.02
+CLANX,1,0.02
+Swiss Beauty Cosmetics Private Limited,1,0.02
+wri,1,0.02
+Onecom,1,0.02
+learners point.org,1,0.02
+suntekai,1,0.02
+Risosu Consulting LLP,1,0.02
+Tap Invest,1,0.02
+Pearl,1,0.02
+Mlops Solutions Pvt Ltd,1,0.02
+Inspity IT Solutions,1,0.02
+Altinvest Online Platform Pvt Ltd,1,0.02
+Scouto,1,0.02
+Accounting Baba,1,0.02
+TopGrep Tech Private Limited,1,0.02
+Qnity Electronics,1,0.02
+FIS Capital Markets,1,0.02
+AB InBev India,1,0.02
+Hyderabad,1,0.02
